@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY messengerCmd.label "Email &amp; grupos de notícias">
+<!ENTITY messengerCmd.accesskey "m">
+<!ENTITY messengerCmd.commandkey "2">
+<!ENTITY addressBookCmd.label "Catálogo de Endereços">
+<!ENTITY addressBookCmd.accesskey "e">
+<!ENTITY addressBookCmd.commandkey "5">
+<!ENTITY taskMessenger.tooltip "Email &amp; grupos de notícias">
+<!ENTITY taskAddressBook.tooltip "Catálogo de Endereços">
+<!ENTITY searchAddressesCmd.label "Catálogo de Endereços...">
+<!ENTITY searchAddressesCmd.accesskey "E">
+<!ENTITY searchMailCmd.label "Mensagens...">
+<!ENTITY searchMailCmd.accesskey "M">
+<!ENTITY searchMailCmd.key "f">

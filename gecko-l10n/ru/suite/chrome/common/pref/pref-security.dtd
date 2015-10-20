@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pref.security.title "Приватность и защита">
+<!ENTITY tracking.label "Отслеживание пользователя">
+<!ENTITY trackingIntro.label "Веб-сайты могут отслеживать то, как вы их используете, что влияет на вашу приватность.">
+<!ENTITY dntTellSites.label "Сообщать веб-сайтам о моей настройке отслеживания">
+<!ENTITY dntTellSites.accesskey "о">
+<!ENTITY dntTrackingNotOkay.label "Я не хочу, чтобы меня отслеживали">
+<!ENTITY dntTrackingNotOkay.accesskey "н">
+<!ENTITY dntTrackingOkay.label "Я согласен, чтобы меня отслеживали">
+<!ENTITY dntTrackingOkay.accesskey "а">
+<!ENTITY safeBrowsing.label "Безопасный веб-сёрфинг">
+<!ENTITY safeBrowsingIntro.label "&brandShortName; может блокировать веб-сайты, подозреваемые в наличии зловредного содержимого.">
+<!ENTITY blockAttackSites.label "Блокировать сайты, подозреваемые в атаках (вредоносные программы, вирусы)">
+<!ENTITY blockAttackSites.accesskey "к">
+<!ENTITY blockWebForgeries.label "Блокировать сайты, подозреваемые в мошенничестве (фишинге)">
+<!ENTITY blockWebForgeries.accesskey "и">

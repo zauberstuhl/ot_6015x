@@ -1,0 +1,34 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY restorepage.tabtitle       "Obnovenie relácie">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle     "Tak toto je nepríjemné">
+<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
+                        you may translate "crash" instead (even though it's IT-speak) -->
+<!ENTITY restorepage.problemDesc    "&brandShortName; má problémy s obnovením vašich naposledy otvorených okien a kariet. Toto zvyčajne spôsobuje posledná načítaná webová stránka.">
+<!ENTITY restorepage.tryThis        "Môžete skúsiť:">
+<!ENTITY restorepage.restoreSome    "Odstrániť jednu alebo viacero kariet, ktoré by mohli spôsobovať problémy">
+<!ENTITY restorepage.startNew       "Spustiť úplne novú reláciu prehliadania">
+
+<!ENTITY restorepage.tryagainButton "Obnoviť">
+<!ENTITY restorepage.restore.access "b">
+<!ENTITY restorepage.closeButton    "Zavrieť">
+<!ENTITY restorepage.close.access   "Z">
+
+<!ENTITY restorepage.restoreHeader  "Obnoviť">
+<!ENTITY restorepage.listHeader     "Okná a karty">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Okno č. &#37;S">
+
+<!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
+     not for about:sessionstore -->
+<!ENTITY welcomeback.tabtitle       "Vitajte späť!">
+
+<!-- LOCALIZATION NOTE: The title is intended to be welcoming and congratulatory,
+     expressing joy that the user has successfully migrated their stuff and hope
+     that now they have a better experience.  -->
+<!ENTITY welcomeback.pageTitle      "Vitajte späť!">
+<!ENTITY welcomeback.pageInfo       "&brandShortName; úspešne obnovil váš profil. Nižšie sa nachádza zoznam okien a kariet, ktoré ste mali otvorené. Môžete ich obnoviť alebo začať nanovo s čistým štítom.">

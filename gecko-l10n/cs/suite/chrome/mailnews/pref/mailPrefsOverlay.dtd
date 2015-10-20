@@ -1,0 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- These are added to the Advanced - Scripts & Plug-ins panel -->
+<!ENTITY enbPluginCheckMailNews.label "Pošta a diskusní skupiny">
+<!ENTITY enbPluginCheckMailNews.accesskey "o">
+
+<!-- These are added to the Window menu -->
+<!ENTITY mail.label "Pošta a diskusní skupiny">
+<!ENTITY mail.accesskey "o">
+<!ENTITY addressbook.label "Adresář">
+<!ENTITY addressbook.accesskey "A">
+
+<!-- These are added to Preferences dialog -->
+<!ENTITY viewingMessages.label "Zobrazení zpráv">
+<!ENTITY notifications.label "Upozorňování">
+<!ENTITY address.label "Adresování">
+<!ENTITY composingMessages.label "Vytváření zpráv">
+<!ENTITY format.label "Formát odesílání">
+<!ENTITY return.label "Potvrzení o přečtení">
+<!ENTITY junk.label "Nevyžádaná pošta">
+<!ENTITY tags.label "Štítky">
+<!ENTITY characterEncoding.label "Znaková sada">
+<!ENTITY networkStorage.label "Síť a úložiště">

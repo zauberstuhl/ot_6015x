@@ -1,0 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pref.smartUpdate.title "Atualizações">
+<!ENTITY smartTitle.label "Gerenciando instalações de software e atualizações">
+<!ENTITY enableSU.label "Permitir instalações (você será consultado antes)">
+<!ENTITY enableSU.accesskey "p">
+<!ENTITY allowedSites.label "Permissões...">
+<!ENTITY allowedSites.accesskey "S">
+<!ENTITY weekly.label "Toda semana">
+<!ENTITY addonManagerButton.label             "Gerenciador de complementos">
+<!ENTITY addonManagerButton.accesskey         "G">
+<!ENTITY appDaily.accesskey                   "d">
+<!ENTITY appUpdates.accesskey                 "S">
+<!ENTITY appUpdates.label                     "&brandShortName;">
+<!ENTITY appWeekly.accesskey                  "w">
+<!ENTITY autoUpdates.label                    "Checar automaticamente por atualizações:">
+<!ENTITY daily.label                          "Todo dia">
+<!ENTITY extensionsDaily.accesskey            "d">
+<!ENTITY extensionsUpdates.accesskey          "n">
+<!ENTITY extensionsUpdates.label              "Complementos instalados">
+<!ENTITY extensionsWeekly.accesskey           "s">
+
+<!ENTITY verifyUpdates.caption                "Atualizações">

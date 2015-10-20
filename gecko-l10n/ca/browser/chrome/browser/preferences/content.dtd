@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  popups.label                "Finestres emergents">
+
+<!ENTITY  blockPopups.label           "Bloca les finestres emergents">
+<!ENTITY  blockPopups.accesskey       "B">
+<!ENTITY  popupExceptions.label       "Excepcions…">
+<!ENTITY  popupExceptions.accesskey   "E">
+
+<!ENTITY  fontsAndColors.label        "Tipus de lletra i colors">
+
+<!ENTITY  defaultFont.label           "Tipus de lletra per defecte:">
+<!ENTITY  defaultFont.accesskey       "d">
+<!ENTITY  defaultSize.label           "Mida:">
+<!ENTITY  defaultSize.accesskey       "M">
+
+<!ENTITY  advancedFonts.label         "Avançat…">
+<!ENTITY  advancedFonts.accesskey     "v">
+
+<!ENTITY  colors.label                "Colors…">
+<!ENTITY  colors.accesskey            "C">
+
+
+<!ENTITY languages.label              "Llengües">
+<!ENTITY chooseLanguage.label         "Trieu la llengua en què es mostraran preferentment les pàgines">
+<!ENTITY chooseButton.label           "Trieu…">
+<!ENTITY chooseButton.accesskey       "T">

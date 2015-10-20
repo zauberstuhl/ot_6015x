@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
+<!ENTITY pref.advanced.title "Rozšířené">
+
+<!ENTITY systemPref.caption "Systémové předvolby">
+<!ENTITY systemPrefCheck.label "Použít předvolby ze systému">
+<!ENTITY systemPrefCheck.accesskey "U">
+<!ENTITY systemPref.desc "Zaškrtnutím této možnosti se zdědí předvolby ze systému. Tím se přepíší předvolby aplikace &brandShortName;">
+
+<!ENTITY prefCheckDefault.caption "Nastavení systému">
+<!ENTITY prefCheckDefaultClient.label "Při startu kontrolovat nastavení výchozí aplikace">
+<!ENTITY prefCheckDefaultClient.accesskey "t">
+
+<!ENTITY crashReports.caption "Hlášení o pádech">
+<!ENTITY submitCrashes.label "Odesílat hlášení o pádech">
+<!ENTITY submitCrashes.accesskey "O">

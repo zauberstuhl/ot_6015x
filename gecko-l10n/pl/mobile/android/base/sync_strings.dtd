@@ -1,0 +1,106 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
+
+<!-- Main titles. -->
+<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.title.connect.label 'Połącz z &syncBrand.shortName.label;'>
+<!ENTITY sync.title.adddevice.label 'Dodaj konto &syncBrand.fullName.label;'>
+<!ENTITY sync.title.pair.label 'Sparuj urządzenie'>
+
+<!-- J-PAKE Key Screen -->
+<!ENTITY sync.subtitle.connect.label 'Aby aktywować nowe urządzenie, wybierz na nim opcję „Skonfiguruj &syncBrand.shortName.label;”.'>
+<!ENTITY sync.subtitle.header2.label 'Wpisz ten kod na innym urządzeniu'>
+<!ENTITY sync.subtitle.connectlocation2.label 'Wybierz “&sync.title.pair.label;” w sekcji &syncBrand.shortName.label; w ustawieniach Firefoksa na innym urządzeniu.'>
+<!ENTITY sync.subtitle.pair.label 'Aby aktywować, na innym urządzeniu wybierz „Sparuj urządzenie”.'>
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.pin.oneline.label '...'>
+<!ENTITY sync.link.show.label 'Instrukcje'>
+<!ENTITY sync.link.advancedsetup.label 'Konfiguracja zaawansowana…'>
+<!ENTITY sync.link.nodevice.label 'Nie mam przy sobie tego urządzenia…'>
+
+<!-- J-PAKE Waiting Screen -->
+<!ENTITY sync.jpake.subtitle.waiting.label 'Oczekiwanie na urządzenie…'>
+
+<!-- Account Login Screen -->
+<!ENTITY sync.subtitle.account.label 'Wprowadź dane konta &syncBrand.fullName.label;'>
+<!ENTITY sync.input.username.label 'Nazwa konta'>
+<!ENTITY sync.input.password.label 'Hasło'>
+<!ENTITY sync.input.key.label 'Klucz odzyskiwania'>
+<!ENTITY sync.checkbox.server.label 'Użyj innego serwera'>
+<!ENTITY sync.input.server.label 'URL serwera'>
+  
+<!-- Setup Fail -->
+<!ENTITY sync.title.fail.label 'Nie można skonfigurować usługi &syncBrand.shortName.label;'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; nie mógł nawiązać połączenia z usługą Sync. Spróbować ponownie?'>
+<!ENTITY sync.button.tryagain.label 'Spróbuj ponownie'>
+<!ENTITY sync.button.manual.label 'Skonfiguruj ręcznie'>
+<!ENTITY sync.subtitle.nointernet.label 'Brak połączenia z Internetem.'>
+<!ENTITY sync.subtitle.failaccount.label 'Nie udało się utworzyć konta na tym urządzeniu.'>
+<!ENTITY sync.subtitle.failmultiple.label 'Czy zainstalowano więcej niż jednego Firefoksa? &syncBrand.fullName.label; obsługuje obecnie tylko jedną instalację naraz. Aby skorzystać z usługi &syncBrand.shortName.label;, odinstaluj pozostałe instancje.'>
+  
+<!-- Setup Success -->
+<!ENTITY sync.title.success.label 'Konfiguracja zakończona'>
+<!ENTITY sync.subtitle.success.label1 'Twoje dane zostaną pobrane w tle. Przejdź do ustawień, aby zarządzać swoim kontem, lub zacznij korzystać z przeglądarki &brandShortName;.'>
+<!ENTITY sync.settings.label 'Ustawienia'>
+<!ENTITY sync.subtitle.manage.label1 'Twoje konto &syncBrand.fullName.label; zostało już skonfigurowane. Przejdź do ustawień, aby nim zarządzać, lub uruchom przeglądarkę &brandShortName;.'>
+
+<!-- Pair Device -->
+<!ENTITY sync.pair.tryagain.label 'Spróbuj ponownie.'>
+<!ENTITY sync.pair.connectlocation.label 'Aby aktywować nowe urządzenie, wybierz na nim „Skonfiguruj &syncBrand.shortName.label;”, a następnie wybierz “Mam już konto”.'>
+
+<!-- Firefox SyncAdapter Settings Screen -->
+<!ENTITY sync.settings.options.label 'Ustawienia'>
+<!ENTITY sync.summary.pair.label 'Dodaj inne urządzenie do twojego konta &syncBrand.shortName.label;'>
+
+<!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.label 'Co synchronizować'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Synchronizuj…'>
+<!ENTITY sync.configure.engines.title.bookmarks 'Zakładki'>
+<!ENTITY sync.configure.engines.title.passwords 'Hasła'>
+<!ENTITY sync.configure.engines.title.history 'Historia przeglądania'>
+<!ENTITY sync.configure.engines.title.tabs 'Karty'>
+
+<!-- Common text -->
+<!ENTITY sync.button.cancel.label 'Anuluj'>
+<!ENTITY sync.button.connect.label 'Połącz'>
+<!ENTITY sync.button.ok.label 'OK'>
+  
+<!-- Account strings -->
+<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
+  
+<!-- Bookmark folder strings -->
+<!ENTITY bookmarks.folder.menu.label 'Zakładki'>
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label 'Etykiety'>
+<!ENTITY bookmarks.folder.toolbar.label 'Pasek zakładek'>
+<!ENTITY bookmarks.folder.unfiled.label 'Zakładki nieposortowane'>
+<!ENTITY bookmarks.folder.desktop.label 'Zakładki z komputera'>
+<!ENTITY bookmarks.folder.mobile.label 'Zakładki z telefonu'>
+<!ENTITY bookmarks.folder.readinglist.label 'Do przeczytania'>
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label 'Przypięte'>
+
+<!-- Notification strings -->
+<!ENTITY sync.notification.oneaccount.label 'Można używać tylko jednego konta &syncBrand.fullName.label; naraz.'>
+<!ENTITY sync.notification.configure.saved 'Ustawienia zapisano.'>
+
+<!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.new.recoverykey.status.incorrect 'Nieprawidłowy klucz odzyskiwania. Spróbuj ponownie.'>
+<!ENTITY sync.invalidcreds.label 'Niepoprawne hasło lub nazwa konta.'>
+<!ENTITY sync.invalidserver.label 'Wprowadź poprawny adres URL serwera.'>
+<!ENTITY sync.verifying.label 'Weryfikacja…'>
+
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label 'Wyślij karty na urządzenia'>
+<!ENTITY sync.button.send.label 'Wyślij'>
+<!ENTITY sync.button.set.up.sync.label 'Skonfiguruj &syncBrand.shortName.label;'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label 'Aby wysłać kart, skonfiguruj &syncBrand.shortName.label;.'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label 'Aby wysłać karty na inne urządzenia, skonfiguruj &syncBrand.fullName.label; na swoim urządzeniu.'>
+<!ENTITY sync.text.tab.sent.label 'Karta wysłana!'>
+<!ENTITY sync.text.tab.not.sent.label 'Wystąpił błąd przy wysyłaniu karty.'>

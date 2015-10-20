@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY gdata-provider.label "Google Calendar">
+
+<!ENTITY gdata.privacy.default.label "Google-alapértelmezés">
+<!ENTITY gdata.privacy.default.accesskey "a">
+
+<!ENTITY gdata.migration.title "Csak olvasható naptárak migrálása">
+<!ENTITY gdata.migration.description "A Google Calendar szolgáltatója észlelte, hogy vannak olyan naptárai, amelyek a Google Calendart csak olvasható módban képesek elérni. Ha szeretné frissíteni ezeket a naptárakat, akkor jelölje ki őket alább">
+<!ENTITY gdata.migration.upgrade.label "Frissítés">
+<!ENTITY gdata.migration.upgrade.accesskey "F">
+<!ENTITY gdata.migration.showagain.label "Ellenőrzés mindig">
+
+<!ENTITY gdata.reminder.action.sms.label "Szöveges üzenet küldése">

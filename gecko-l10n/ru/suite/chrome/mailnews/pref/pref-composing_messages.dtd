@@ -1,0 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pref.composing.messages.title "Составление сообщений">
+<!ENTITY generalComposing.label "Основное">
+<!ENTITY forwardMsg.label "Перенаправлять сообщения:">
+<!ENTITY inline.label "Внутри сообщения">
+<!ENTITY inline.accesskey "н">
+<!ENTITY asAttachment.label "Как вложение">
+<!ENTITY asAttachment.accesskey "а">
+<!ENTITY replyQuoteInline.label "Цитировать при ответе вложения, отображаемые в теле сообщения">
+<!ENTITY replyQuoteInline.accesskey "и">
+<!ENTITY warnOnSendAccelKey.label "Спрашивать подтверждение при использовании клавиатурных сокращений для отправки сообщений">
+<!ENTITY warnOnSendAccelKey.accesskey "п">
+<!ENTITY autoSave.label "Автоматически сохранять сообщение каждые">
+<!ENTITY autoSave.accesskey "м">
+<!ENTITY autoSaveEnd.label "минут">
+<!ENTITY wrapOutMsg.label "Длина строки в текстовых сообщениях:">
+<!ENTITY wrapOutMsg.accesskey "л">
+<!ENTITY char.label "символов">
+<!ENTITY defaultMessagesHeader.label "Параметры по умолчанию для сообщений в формате HTML">
+<!ENTITY font.label "Шрифт:">
+<!ENTITY font.accesskey "ф">
+<!ENTITY size.label "Размер:">
+<!ENTITY size.accesskey "з">
+<!ENTITY fontColor.label "Текст:">
+<!ENTITY fontColor.accesskey "е">
+<!ENTITY bgColor.label "Фон:">
+<!ENTITY bgColor.accesskey "о">
+<!ENTITY selectHeaderType.label "Выберите тип заголовка ответа:">
+<!ENTITY selectHeaderType.accesskey "б">
+<!ENTITY noReplyOption.label "Без заголовка ответа">
+<!ENTITY authorWroteOption.label "[Автор] пишет:">
+<!ENTITY onDateAuthorWroteOption.label "[Дата], [автор] пишет:">
+<!ENTITY authorWroteOnDateOption.label "[Автор] пишет, [дата]:">

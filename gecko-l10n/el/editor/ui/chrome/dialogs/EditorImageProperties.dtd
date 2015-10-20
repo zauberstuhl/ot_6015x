@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY windowTitle.label "Ιδιότητες εικόνας">
+<!ENTITY pixelsPopup.value "εικονοστοιχεία">
+<!ENTITY locationEditField.label "Τοποθεσία εικόνας:">
+<!ENTITY locationEditField.accessKey "Τ">
+<!ENTITY locationEditField.tooltip "Καταχωρίστε το όνομα αρχείου εικόνας ή την τοποθεσία">
+<!ENTITY title.label "Συμβουλή οθόνης:">
+<!ENTITY title.accessKey "β">
+<!ENTITY title.tooltip "Το γνώρισμα html 'title' που προβάλλεται ως συμβουλή οθόνης">
+<!ENTITY altText.label "Εναλλακτικό κείμενο:">
+<!ENTITY altText.accessKey "λ">
+<!ENTITY altTextEditField.tooltip "Εισάγετε κείμενο για εμφάνιση στη θέση της εικόνας">
+<!ENTITY noAltText.label "Χωρίς τη χρήση εναλλακτικού κειμένου">
+<!ENTITY noAltText.accessKey "Χ">
+<!ENTITY previewBox.label "Προεπισκόπηση εικόνας">
+<!ENTITY actualSize.label "Πραγματικό μέγεθος:">
+<!ENTITY actualSizeRadio.label "Πραγματικό μέγεθος">
+<!ENTITY actualSizeRadio.accessKey "γ">
+<!ENTITY actualSizeRadio.tooltip "Επιστροφή στο πραγματικό μέγεθος της εικόνας.">
+<!ENTITY customSizeRadio.label "Προσαρμοσμένο μέγεθος">
+<!ENTITY customSizeRadio.accessKey "σ">
+<!ENTITY customSizeRadio.tooltip "Αλλαγή του μεγέθους της εικόνας όπως φαίνεται στη σελίδα">
+<!ENTITY heightEditField.label "Ύψος:">
+<!ENTITY heightEditField.accessKey "ψ">
+<!ENTITY widthEditField.label "Πλάτος:">
+<!ENTITY widthEditField.accessKey "Π">
+<!ENTITY constrainCheckbox.label "Περιορισμός">
+<!ENTITY constrainCheckbox.accessKey "ε">
+<!ENTITY constrainCheckbox.tooltip "Διατήρηση των αναλογιών της εικόνας">
+<!ENTITY imagemapBox.label "Χάρτης εικόνας">
+<!ENTITY removeImageMapButton.label "Αφαίρεση">
+<!ENTITY removeImageMapButton.accessKey "φ">
+<!ENTITY alignment.label "Στοίχιση κειμένου στην εικόνα">
+<!ENTITY bottomPopup.value "Από κάτω">
+<!ENTITY topPopup.value "Πρός τα πάνω">
+<!ENTITY centerPopup.value "Στο μέσο">
+<!ENTITY wrapRightPopup.value "Αναδίπλωση στα δεξιά">
+<!ENTITY wrapLeftPopup.value "Αναδίπλωση στα αριστερά">
+<!ENTITY spacingBox.label "Spacing">
+<!ENTITY leftRightEditField.label "Αριστερά και δεξιά:">
+<!ENTITY leftRightEditField.accessKey "ρ">
+<!ENTITY topBottomEditField.label "Πάνω και κάτω:">
+<!ENTITY topBottomEditField.accessKey "ω">
+<!ENTITY borderEditField.label "Μαύρο πλαίσιο:">
+<!ENTITY borderEditField.accessKey "Μ">
+<!ENTITY showImageLinkBorder.label "Προβολή πλαισίου γύρω από εικόνα με δεσμό">
+<!ENTITY showImageLinkBorder.accessKey "β">
+<!ENTITY imageInputTab.label "Φόρμα">
+<!ENTITY imageLocationTab.label "Τοποθεσία">
+<!ENTITY imageDimensionsTab.label "Διαστάσεις">
+<!ENTITY imageAppearanceTab.label "Εμφάνιση">
+<!ENTITY imageLinkTab.label "Δεσμός">
+
+<!ENTITY LinkAdvancedEditButton.label "Προχωρημένη επεξεργασία δεσμού…">
+<!ENTITY LinkAdvancedEditButton.accessKey "δ">
+<!ENTITY LinkAdvancedEditButton.tooltip "Προσθήκη ή τροποποίηση γνωρισμάτων στυλ, HTML και JavaScript">

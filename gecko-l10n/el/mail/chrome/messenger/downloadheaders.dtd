@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--null-->
+<!ENTITY all.label "Λήψη όλων των κεφαλίδων">
+<!ENTITY all.accesskey "Λ">
+<!ENTITY download.label "Λήψη">
+<!ENTITY download.accesskey "ψ">
+<!ENTITY headers.label "Κεφαλίδες">
+<!ENTITY headers.accesskey "φ">
+<!ENTITY mark.label "Σημείωση υπόλοιπων κεφαλίδων ως αναγνωσμένων">
+<!ENTITY mark.accesskey "μ">

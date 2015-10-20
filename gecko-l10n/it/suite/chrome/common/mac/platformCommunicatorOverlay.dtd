@@ -1,0 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY preferencesCmd.label "Preferenze…">
+<!ENTITY preferencesCmd.key ",">
+<!ENTITY preferencesCmd.modifiers "accel">
+<!ENTITY servicesMenu.label "Servizi">
+<!ENTITY hideThisAppCmd.label "Nascondi &brandShortName;">
+<!ENTITY hideThisAppCmd.key "H">
+<!ENTITY hideThisAppCmd.modifiers "accel">
+<!ENTITY hideOtherAppsCmd.label "Nascondi altre">
+<!ENTITY hideOtherAppsCmd.key "H">
+<!ENTITY hideOtherAppsCmd.modifiers "accel,alt">
+<!ENTITY showAllAppsCmd.label "Mostra tutti">
+<!ENTITY quitApplicationCmd.label "Esci da &brandShortName;">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.modifiers "accel">
+<!ENTITY closeCmd.label "Chiudi">
+<!ENTITY closeCmd.key "W">
+<!ENTITY printSetupCmd.label "Imposta pagina…">
+<!ENTITY printSetupCmd.accesskey "I">
+<!ENTITY redoCmd.key "Z">
+<!ENTITY historyCmd.key "C">
+<!ENTITY findTypeTextCmd.key "">
+<!ENTITY findTypeLinksCmd.key "">
+<!ENTITY accel.emacs_conflict "accel">
+<!ENTITY minimizeWindowCmd.label "Minimizza">
+<!ENTITY minimizeWindowCmd.key "M">
+<!ENTITY zoomWindowCmd.label "Ridimensiona">
+<!ENTITY openHelpCmd.label "Guida di &brandShortName;">
+<!ENTITY openHelpCmd.accesskey "G">
+<!ENTITY openHelpCmd.key "?">
+<!ENTITY openHelpCmd.modifiers "accel">
+<!ENTITY ctrlKey.label "Ctrl">
+<!ENTITY altKey.label "Opzioni">
+<!ENTITY shiftKey.label "Maiusc">

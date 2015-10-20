@@ -1,0 +1,136 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label                "Általános">
+
+<!ENTITY accessibility.label             "Kisegítő lehetőségek">
+
+<!ENTITY useCursorNavigation.label       "Kurzorbillentyűk használata az oldalon belüli navigációhoz">
+<!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchStartTyping.label         "Szöveg keresése a keresett szó beírásának elkezdésétől">
+<!ENTITY searchStartTyping.accesskey     "d">
+<!ENTITY blockAutoRefresh.label          "Figyelmeztetés, ha a webhely átirányítja vagy frissíti az oldalt">
+<!ENTITY blockAutoRefresh.accesskey      "w">
+
+<!ENTITY browsing.label                  "Böngészés">
+
+<!ENTITY useAutoScroll.label             "Automatikus görgetés">
+<!ENTITY useAutoScroll.accesskey         "u">
+<!ENTITY useSmoothScrolling.label        "Finom görgetés">
+<!ENTITY useSmoothScrolling.accesskey    "F">
+<!ENTITY allowHWAccel.label              "Hardveres gyorsítás használata, ha lehetséges">
+<!ENTITY allowHWAccel.accesskey          "r">
+<!ENTITY checkSpelling.label             "Helyesírás-ellenőrzés beírás közben">
+<!ENTITY checkSpelling.accesskey         "H">
+
+<!ENTITY systemDefaults.label            "Rendszer alapbeállításai">
+<!ENTITY alwaysCheckDefault.label        "Indításkor ellenőrzés, hogy a &brandShortName;-e az alapértelmezett böngésző"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "I">
+<!ENTITY setDefault.label                "Legyen a &brandShortName; az alapértelmezett böngésző">
+<!ENTITY setDefault.accesskey            "L">
+<!ENTITY isDefault.label                 "Jelenleg a &brandShortName; az alapértelmezett böngésző.">
+
+<!ENTITY dataChoicesTab.label            "Adatválasztások">
+
+<!ENTITY healthReportSection.label       "&brandShortName; állapotjelentés">
+<!ENTITY healthReportDesc.label          "Segít megérteni a böngésző teljesítményét és adatokat oszt meg a &vendorShortName;val a böngésző állapotáról">
+<!ENTITY enableHealthReport.label        "A &brandShortName; állapotjelentés bekapcsolása">
+<!ENTITY enableHealthReport.accesskey    "b">
+<!ENTITY healthReportLearnMore.label     "További információ">
+
+<!ENTITY telemetrySection.label          "Telemetria">
+<!ENTITY telemetryDesc.label             "Adatokat küld a &vendorShortName;nak a böngésző teljesítményéről, a hardverről, a felhasználásról és az egyéni beállításokról, hogy a &brandShortName; jobb lehessen.">
+<!ENTITY enableTelemetry.label           "Telemetria bekapcsolása">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "További információ">
+
+<!ENTITY crashReporterSection.label      "Összeomlás-jelentő">
+<!ENTITY crashReporterDesc.label         "A &brandShortName; összeomlás-jelentéseket küld, hogy a &vendorShortName; stabilabbá és biztonságosabbá tehesse a böngészőjét">
+<!ENTITY enableCrashReporter.label       "Összeomlás-bejelentő bekapcsolása ">
+<!ENTITY enableCrashReporter.accesskey   "o">
+<!ENTITY crashReporterLearnMore.label    "További információ">
+
+<!ENTITY networkTab.label                "Hálózat">
+
+<!ENTITY connection.label                "Kapcsolat">
+
+<!ENTITY connectionDesc.label            "A &brandShortName; internetkapcsolatának megadása">
+<!ENTITY connectionSettings.label        "Beállítások…">
+<!ENTITY connectionSettings.accesskey    "B">
+
+<!ENTITY httpCache.label                 "Gyorsítótárazott webtartalom">
+
+<!ENTITY offlineStorage2.label           "Offline webtartalom és felhasználói adatok">
+
+<!-- LOCALIZATION NOTE:
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+  line in preferences as follows:
+
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+-->
+<!ENTITY limitCacheSizeBefore.label      "Gyorsítótár korlátozása">
+<!ENTITY limitCacheSizeBefore.accesskey  "G">
+<!ENTITY limitCacheSizeAfter.label       "MB">
+<!ENTITY clearCacheNow.label             "Törlés most">
+<!ENTITY clearCacheNow.accesskey         "T">
+<!ENTITY clearOfflineAppCacheNow.label   "Törlés most">
+<!ENTITY clearOfflineAppCacheNow.accesskey "m">
+<!ENTITY overrideSmartCacheSize.label    "Az automatikus gyorsítótár-kezelés felülbírálása">
+<!ENTITY overrideSmartCacheSize.accesskey "a">
+
+<!ENTITY updateTab.label                 "Frissítés">
+
+<!ENTITY updateApp.label                 "&brandShortName; frissítések:">
+<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
+     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
+     in preferences.properties -->
+<!ENTITY updateAuto1.label               "Frissítések automatikus telepítése (ez ajánlott a maximális biztonság érdekében)">
+<!ENTITY updateAuto1.accesskey           "A">
+<!ENTITY updateAutoMetro.label           "Frissítések automatikus telepítése az asztali és a Windows 8 stílusú &brandShortName;ról">
+<!ENTITY updateAutoMetro.accesskey       "w">
+<!ENTITY updateCheck.label               "Frissítések keresése, de a telepítés kézzel történik">
+<!ENTITY updateCheck.accesskey           "k">
+<!ENTITY updateManual.label              "Ne legyen frissítve (nem ajánlott a biztonsági kockázat miatt">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "Figyelmeztetés, ha a kiegészítők elérhetetlenek lesznek emiatt">
+<!ENTITY updateAutoAddonWarn.accesskey   "F">
+
+<!ENTITY updateAutoMetroWarn.label       "(a Windows 8 stílusú &brandShortName; nem ellenőrzi a kiegészítők kompatibilitását)">
+
+<!ENTITY updateHistory.label             "Frissítési előzmények megjelenítése">
+<!ENTITY updateHistory.accesskey         "z">
+
+<!ENTITY useService.label                "Háttérben futó szolgáltatás intézze a frissítést">
+<!ENTITY useService.accesskey            "H">
+
+<!ENTITY updateOthers.label              "Automatikus frissítés:">
+<!ENTITY enableSearchUpdate.label        "Keresőszolgáltatások">
+<!ENTITY enableSearchUpdate.accesskey    "E">
+
+<!ENTITY offlineNotify.label             "Figyelmeztetés, ha a webhely adatokat akar tárolni kapcsolat nélküli használatra">
+<!ENTITY offlineNotify.accesskey         "w">
+<!ENTITY offlineNotifyExceptions.label   "Kivételek…">
+<!ENTITY offlineNotifyExceptions.accesskey "K">
+
+<!ENTITY offlineAppsList2.label          "A következő webhelyek tárolhatnak adatokat kapcsolat nélküli használatra:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Eltávolítás…">
+<!ENTITY offlineAppsListRemove.accesskey "E">
+<!ENTITY offlineAppRemove.confirm        "Kapcsolat nélküli adatok eltávolítása">
+
+<!ENTITY certificateTab.label            "Tanúsítványok">
+<!ENTITY certSelection.description       "Ha a kiszolgáló elkéri a személyes tanúsítványt:">
+<!ENTITY certs.auto                      "Automatikus választás">
+<!ENTITY certs.auto.accesskey            "u">
+<!ENTITY certs.ask                       "Megerősítés minden alkalommal">
+<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY viewCerts.label                 "Tanúsítványkezelő">
+<!ENTITY viewCerts.accesskey             "n">
+<!ENTITY verify2.label                   "Érvényesítés">
+<!ENTITY verify2.accesskey               "r">
+<!ENTITY viewSecurityDevices.label       "Adatvédelmi eszközök">
+<!ENTITY viewSecurityDevices.accesskey   "A">

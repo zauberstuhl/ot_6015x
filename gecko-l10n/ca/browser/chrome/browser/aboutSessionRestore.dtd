@@ -1,0 +1,34 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY restorepage.tabtitle       "Restauració de la sessió">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+
+<!ENTITY restorepage.errorTitle     "Bé, és lamentable.">
+<!ENTITY restorepage.problemDesc    "El &brandShortName; té problemes per recuperar les vostres finestres i pestanyes. Normalment és a causa d'una pàgina web oberta recentment.">
+<!ENTITY restorepage.tryThis        "Podeu provar el següent:">
+<!ENTITY restorepage.restoreSome    "Descartar una o més pestanyes que creieu que poden estar causant el problema">
+<!ENTITY restorepage.startNew       "Iniciar una sessió de navegació completament nova">
+
+<!ENTITY restorepage.tryagainButton "Restaura">
+<!ENTITY restorepage.restore.access "R">
+<!ENTITY restorepage.closeButton    "Tanca">
+<!ENTITY restorepage.close.access   "c">
+
+<!ENTITY restorepage.restoreHeader  "Restaura">
+<!ENTITY restorepage.listHeader     "Finestres i pestanyes">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Finestra &#037;S">
+<!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
+     not for about:sessionstore -->
+
+
+<!ENTITY welcomeback.tabtitle       "Ben tornat!">
+<!-- LOCALIZATION NOTE: The title is intended to be welcoming and congratulatory,
+     expressing joy that the user has successfully migrated their stuff and hope
+     that now they have a better experience.  -->
+
+<!ENTITY welcomeback.pageTitle      "Ben tornat!">
+<!ENTITY welcomeback.pageInfo       "El &brandShortName; ha reinicialitzat el perfil correctament. A continuació hi ha una llista de finestres i pestanyes que teníeu obertes; podeu restaurar-les o començar des de zero.">

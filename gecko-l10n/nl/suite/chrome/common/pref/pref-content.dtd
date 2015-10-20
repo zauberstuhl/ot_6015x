@@ -1,0 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--LOCALIZATION NOTE : FILE The Appearance > Content prefs dialog.  -->
+
+<!ENTITY pref.content.title                     "Inhoud">
+<!ENTITY pref.content.description               "Deze instellingen bepalen hoe de inhoud van websites en berichten in &brandShortName; verschijnt.">
+<!ENTITY siteIcons.label                        "Websitepictogrammen">
+<!ENTITY useSiteIcons.label                     "Websitepictogrammen tonen">
+<!ENTITY useSiteIcons.accesskey                 "W">
+<!ENTITY useFavIcons.label                      "Actief zoeken naar websitepictogrammen als de pagina er geen definieert">
+<!ENTITY useFavIcons.accesskey                  "A">
+<!ENTITY enableAutomaticImageResizing.label     "Formaat van grote afbeeldingen aanpassen aan browservenster">
+<!ENTITY enableAutomaticImageResizing.accesskey "F">
+<!ENTITY useSmoothScroll.label                  "Vloeiend scrollen gebruiken">
+<!ENTITY useSmoothScroll.accesskey              "V">
+<!ENTITY allowHWAccel.label                     "Hardwareversnelling gebruiken indien beschikbaar">
+<!ENTITY allowHWAccel.accesskey                 "r">
+<!ENTITY textZoomOnly.label                     "Alleen tekst zoomen in plaats van hele pagina’s">
+<!ENTITY textZoomOnly.accesskey                 "z">
+<!ENTITY blockAutoRefresh.label                 "Mij waarschuwen wanneer websites proberen de pagina door te sturen of te herladen">
+<!ENTITY blockAutoRefresh.accesskey             "M">
+<!ENTITY siteSpecific.label                     "Zoomniveau op paginabasis onthouden">
+<!ENTITY siteSpecific.accesskey                 "o">

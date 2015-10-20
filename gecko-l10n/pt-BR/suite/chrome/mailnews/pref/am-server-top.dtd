@@ -1,0 +1,71 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY securitySettings.label "Configurações de segurança">
+<!ENTITY serverSettings.label "Receber mensagens">
+<!ENTITY serverType.label "Tipo:">
+<!ENTITY serverName.label "Servidor:">
+<!ENTITY serverName.accesskey "O">
+<!ENTITY userName.label "Usuário:">
+<!ENTITY userName.accesskey "O">
+<!ENTITY port.label "Porta:">
+<!ENTITY port.accesskey "T">
+<!ENTITY serverPortDefault.label "Padrão:">
+<!ENTITY biffStart.label "Verificar novas mensagens a cada ">
+<!ENTITY biffStart.accesskey "c">
+<!ENTITY biffEnd.label "minutos">
+<!ENTITY useSecAuth.label "Usar autenticação segura">
+<!ENTITY useSecAuth.accesskey "t">
+<!ENTITY leaveOnServer.label "Manter mensagens no servidor">
+<!ENTITY leaveOnServer.accesskey "m">
+<!ENTITY headersOnly.label "Baixar somente os cabeçalhos da mensagem">
+<!ENTITY headersOnly.accesskey "b">
+<!ENTITY deleteByAgeFromServer.label "Por no máximo">
+<!ENTITY deleteByAgeFromServer.accesskey "x">
+<!ENTITY daysEnd.label "dias">
+<!ENTITY deleteOnServer2.label "Até que eu as exclua">
+<!ENTITY deleteOnServer2.accesskey "x">
+<!ENTITY downloadOnBiff.label "Receber novas mensagens automaticamente">
+<!ENTITY downloadOnBiff.accesskey "r">
+<!ENTITY username.label "Nome de login">
+<!ENTITY deleteMessagePrefix.label "Ao excluir uma mensagem:">
+<!ENTITY modelMoveToTrash.label "Mover para a lixeira">
+<!ENTITY modelMoveToTrash.accesskey "x">
+<!ENTITY modelMarkDeleted.label "Marcar como excluída">
+<!ENTITY modelMarkDeleted.accesskey "M">
+<!ENTITY modelDeleteImmediately.label "Excluir imediatamente">
+<!ENTITY modelDeleteImmediately.accesskey "E">
+
+<!ENTITY expungeOnExit.label 'Esvaziar a pasta "Entrada" ao sair'>
+<!ENTITY expungeOnExit.accesskey "Z">
+<!ENTITY emptyTrashOnExit.label "Esvaziar a lixeira ao sair">
+<!ENTITY emptyTrashOnExit.accesskey "z">
+<!ENTITY loginAtStartup.label "Verificar novas mensagens ao iniciar">
+<!ENTITY loginAtStartup.accesskey "N">
+<!ENTITY maxMessagesStart.label "Perguntar antes de receber mais de">
+<!ENTITY maxMessagesStart.accesskey "t">
+<!ENTITY maxMessagesEnd.label "mensagens">
+<!ENTITY alwaysAuthenticate.label "Sempre pedir autenticação ao conectar-se a este servidor">
+<!ENTITY alwaysAuthenticate.accesskey "c">
+<!ENTITY newsrcFilePath.label "Arquivo newsrc:">
+<!ENTITY localPath.label "Pasta local:">
+<!ENTITY abbreviate.label "Exibir nomes de newsgroups na área de pastas como:">
+<!ENTITY abbreviateOn.label 'Nome completo (por exemplo, "netscape.public.mozilla.mail-news")'>
+<!ENTITY abbreviateOff.label 'Nomes abreviados (por exemplo, "n.p.m.mail-news")'>
+<!ENTITY advancedButton.label "Avançado...">
+<!ENTITY serverDefaultCharset.label "Codificação de caracteres padrão:">
+<!ENTITY advancedButton.accesskey "v">
+<!ENTITY localFolderPicker.label "Selecione a localização da pasta local:">
+<!ENTITY browseFolder.label "Pasta...">
+<!ENTITY browseFolder.accesskey "P">
+<!ENTITY newsrcPicker.label "Selecionar arquivo newsrc">
+<!ENTITY browseNewsrc.label "Selecionar...">
+<!ENTITY browseNewsrc.accesskey "s">
+
+<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY connectionSecurity.label "Segurança da conexão:">
+<!ENTITY connectionSecurityType-0.label "Nenhum">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, se disponível">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">

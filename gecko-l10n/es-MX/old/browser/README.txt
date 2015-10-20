@@ -1,0 +1,2 @@
+Para obtener información acerca de la instalación, funcionamiento y configuración de Firefox
+incluyendo una lista de problemas conocidos e información de solución de problemas, accede aquí: http://getfirefox.com/releases/

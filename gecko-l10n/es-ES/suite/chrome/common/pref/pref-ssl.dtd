@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY SSLProtocolVersions.caption "Versiones del protocolo SSL">
+<!ENTITY SSLWarnings.caption "Advertencias SSL">
+<!ENTITY SSLMixedContent.caption "Contenido mezclado">
+<!ENTITY SSLClientAuthMethod.caption "Selección de certificado de sesión">
+<!ENTITY pref.ssl.title "Capa de Conexiones Seguras (SSL)">
+<!ENTITY limit.description "Puede restringir qué protocolos de cifrado deben usarse para las conexiones seguras. Elija una única versión o un intervalo de versiones consecutivas.">
+<!ENTITY limit.enable.label "Activar:">
+<!ENTITY limit.ssl30.label "SSL 3.0">
+<!ENTITY limit.ssl30.accesskey "3">
+<!ENTITY limit.tls10.label "TLS 1.0">
+<!ENTITY limit.tls10.accesskey "T">
+<!ENTITY limit.tls11.label "TLS 1.1">
+<!ENTITY limit.tls11.accesskey "1">
+<!ENTITY limit.tls12.label "TLS 1.2">
+<!ENTITY limit.tls12.accesskey "2">
+<!ENTITY warn.description2 "&brandShortName; puede avisarle del estado de seguridad de la página web que esté viendo. Configure &brandShortName; para que muestre una advertencia cuando:">
+<!ENTITY warn.enteringsecure "Cargar una página que utiliza cifrado">
+<!ENTITY warn.enteringsecure.accesskey "C">
+<!ENTITY warn.insecurepost "Enviar datos de formulario desde una página sin cifrar a otra sin cifrar">
+<!ENTITY warn.insecurepost.accesskey "E">
+<!ENTITY warn.leavingsecure "Abandonar una página que utiliza cifrado">
+<!ENTITY warn.leavingsecure.accesskey "A">
+<!ENTITY warn.viewmixed "Ver una página con una mezcla de contenido cifrado/sin cifrar">
+<!ENTITY warn.viewmixed.accesskey "V">
+<!ENTITY warn.mixedactivecontent "Advertirme cuando las páginas cifradas contengan contenido no seguro">
+<!ENTITY warn.mixedactivecontent.accesskey "d">
+<!ENTITY block.activecontent "No cargar contenido no seguro en páginas no cifradas">
+<!ENTITY block.activecontent.accesskey "N">
+<!ENTITY warn.mixeddisplaycontent "Advertirme cuando las páginas cifradas contengan otros tipos de contenido mezclado">
+<!ENTITY warn.mixeddisplaycontent.accesskey "m">
+<!ENTITY block.displaycontent "No cargar otros tipos de contenido mezclado en páginas cifradas">
+<!ENTITY block.displaycontent.accesskey "o">
+<!ENTITY certselect.description "Decida cómo seleccionará &brandShortName; un certificado de seguridad para presentar a los sitios web que requieran uno:">
+<!ENTITY certselect.auto "Seleccionar automáticamente">
+<!ENTITY certselect.auto.accesskey "A">
+<!ENTITY certselect.ask "Preguntar cada vez">
+<!ENTITY certselect.ask.accesskey "P">

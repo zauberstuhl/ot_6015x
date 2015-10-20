@@ -1,0 +1,46 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemFormatting.label             "Formatação">
+<!ENTITY itemTags.label                   "Tags">
+
+<!ENTITY style.label                      "Estilo:">
+<!ENTITY style.accesskey                  "E">
+<!ENTITY regularStyle.label               "Regular">
+<!ENTITY bold.label                       "Negrito">
+<!ENTITY italic.label                     "Itálico">
+<!ENTITY boldItalic.label                 "Negrito itálico">
+<!ENTITY size.label                       "Tam.:">
+<!ENTITY size.accesskey                   "T">
+<!ENTITY regularSize.label                "Regular">
+<!ENTITY bigger.label                     "Maior">
+<!ENTITY smaller.label                    "Menor">
+<!ENTITY quotedTextColor.label            "Cor:">
+<!ENTITY quotedTextColor.accesskey        "o">
+<!ENTITY displayWidth.label               "Mensagens sem formatação">
+<!ENTITY displayText.label                "Ao exibir texto citado:">
+
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label        "Representar smileys como imagens">
+<!ENTITY convertEmoticons.accesskey    "R">
+
+<!-- labels -->
+<!ENTITY displayTagsText.label     "As tags podem ser usadas para organizar suas mensagens.">
+<!ENTITY addTagButton.label        "Nova…">
+<!ENTITY addTagButton.accesskey    "N">
+<!ENTITY editTagButton.label       "Editar…">
+<!ENTITY editTagButton.accesskey   "E">
+<!ENTITY removeTagButton.label     "Excluir">
+<!ENTITY removeTagButton.accesskey "x">
+
+<!-- Fonts -->
+<!ENTITY fontsAndColors1.label   "Fontes">
+<!ENTITY defaultFont.label       "Fonte padrão:">
+<!ENTITY defaultFont.accesskey   "F">
+<!ENTITY defaultSize.label       "Tam.:">
+<!ENTITY defaultSize.accesskey   "T">
+<!ENTITY fontOptions.accesskey   "A">
+<!ENTITY fontOptions.label       "Avançado…">
+<!ENTITY colorButton.label       "Cores…">
+<!ENTITY colorButton.accesskey   "C">

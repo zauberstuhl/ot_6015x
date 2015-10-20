@@ -1,0 +1,19 @@
+<!ENTITY inspectorHTMLEdit.label       "HTML bearbeiten">
+<!ENTITY inspectorHTMLEdit.accesskey   "b">
+
+<!ENTITY inspectorHTMLCopyInner.label       "Inneres HTML kopieren">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "n">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Äußeres HTML kopieren">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "u">
+
+<!ENTITY inspectorCopyUniqueSelector.label       "Eindeutigen Selektor kopieren">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "E">
+
+<!ENTITY inspectorHTMLDelete.label          "Knoten löschen">
+<!ENTITY inspectorHTMLDelete.accesskey      "s">
+
+<!ENTITY inspector.selectButton.tooltip     "Element mit Maus auswählen">
+
+<!ENTITY inspectorSearchHTML.label          "HTML-Element suchen">
+<!ENTITY inspectorSearchHTML.key            "H">

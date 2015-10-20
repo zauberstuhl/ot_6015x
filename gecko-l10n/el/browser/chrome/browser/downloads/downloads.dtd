@@ -1,0 +1,55 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+
+
+<!ENTITY downloadDetails.width            "50ch">
+
+<!ENTITY downloadsHistory.label           "Εμφάνιση όλων των λήψεων">
+<!ENTITY downloadsHistory.accesskey       "μ">
+
+
+<!ENTITY downloadsSummary.minWidth2       "32ch">
+
+<!-- LOCALIZATION NOTE (downloads.title):
+     Used by screen readers to describe the Downloads Panel.
+     -->
+<!ENTITY downloads.title                  "Λήψεις">
+
+
+<!ENTITY clearDownloadsButton.label       "Εκκαθάριση λήψεων">
+<!ENTITY clearDownloadsButton.tooltip     "Απομακρύνει από τη λίστα τις ολοκληρωμένες, ακυρωμένες και αποτυχημένες λήψεις">
+<!ENTITY cmd.clearDownloads.label         "Εκκαθάριση λήψεων">
+<!ENTITY cmd.clearDownloads.accesskey     "θ">
+
+<!ENTITY cmd.removeFromHistory.label      "Απομάκρυνση από το ιστορικό">
+<!ENTITY cmd.removeFromHistory.accesskey  "υ">
+<!ENTITY downloadsListEmpty.label         "Δεν υπάρχουν λήψεις.">
+<!ENTITY downloadsListNoMatch.label       "Δεν βρέθηκαν λήψεις που να ταιριάζουν.">
+
+
+<!ENTITY cmd.pause.label                  "Παύση">
+<!ENTITY cmd.pause.accesskey              "Π">
+<!ENTITY cmd.resume.label                 "Συνέχεια">
+<!ENTITY cmd.resume.accesskey             "ν">
+<!ENTITY cmd.cancel.label                 "Ακύρωση">
+<!ENTITY cmd.cancel.accesskey             "κ">
+<!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
+     cmd.showMac.accesskey):
+     The show and showMac commands are never shown together, thus they can share
+     the same access key (though the two access keys can also be different).
+     -->
+<!ENTITY cmd.show.label                   "Άνοιγμα φακέλου λήψης">
+<!ENTITY cmd.show.accesskey               "φ">
+<!ENTITY cmd.showMac.label                "Προβολή στον Finder">
+<!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.retry.label                  "Προσπάθεια ξανά">
+<!ENTITY cmd.goToDownloadPage.label       "Μετάβαση στη σελίδα λήψης">
+<!ENTITY cmd.goToDownloadPage.accesskey   "β">
+<!ENTITY cmd.copyDownloadLink.label       "Αντιγραφή δεσμού λήψης">
+<!ENTITY cmd.copyDownloadLink.accesskey   "δ">
+<!ENTITY cmd.clearList.label              "Εκκαθάριση λίστας">
+<!ENTITY cmd.clearList.accesskey          "θ">
+
+

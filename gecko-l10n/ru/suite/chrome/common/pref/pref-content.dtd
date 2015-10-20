@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pref.content.title "Содержимое">
+<!ENTITY pref.content.description "Эти настройки влияют на то, как содержимое веб-сайтов и сообщений отобразится в &brandShortName;.">
+<!ENTITY siteIcons.label "Значки веб-сайтов">
+<!ENTITY useSiteIcons.label "Показывать значки веб-сайтов">
+<!ENTITY useSiteIcons.accesskey "к">
+<!ENTITY useFavIcons.label "Выискивать значки веб-сайтов, если они не указаны страницей">
+<!ENTITY useFavIcons.accesskey "и">
+<!ENTITY enableAutomaticImageResizing.label "Использовать автоматическое изменение размера изображений">
+<!ENTITY enableAutomaticImageResizing.accesskey "з">
+<!ENTITY useSmoothScroll.label "Использовать плавную прокрутку">
+<!ENTITY useSmoothScroll.accesskey "л">
+<!ENTITY allowHWAccel.label "По возможности использовать аппаратное ускорение">
+<!ENTITY allowHWAccel.accesskey "о">
+<!ENTITY textZoomOnly.label "Масштабировать только текст (не страницу целиком)">
+<!ENTITY textZoomOnly.accesskey "в">
+<!ENTITY blockAutoRefresh.label "Предупреждать при попытке веб-сайтов перенаправить или перезагрузить страницу">
+<!ENTITY blockAutoRefresh.accesskey "р">
+<!ENTITY siteSpecific.label "Запоминать масштаб для каждого сайта">
+<!ENTITY siteSpecific.accesskey "п">

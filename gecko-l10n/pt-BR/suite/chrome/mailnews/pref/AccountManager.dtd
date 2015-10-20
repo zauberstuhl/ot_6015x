@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY accountManagerTitle.label "Configurações de contas">
+<!ENTITY addAccountButton.label "Nova conta...">
+<!ENTITY addAccountButton.accesskey "C">
+<!ENTITY setDefaultButton.label "Definir como conta padrão">
+<!ENTITY setDefaultButton.accesskey "d">
+<!ENTITY removeButton.label "Excluir conta...">
+<!ENTITY removeButton.accesskey "X">
+<!ENTITY accountManager.size "width: 55em; height: 50em;">
+<!ENTITY macAccountManager.size "width: 60em; height: 50em;">
+<!ENTITY accountTree.width "width: 17em;">

@@ -1,0 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY migrationWizard.title          "Чаробњак за увоз">
+
+<!ENTITY importFrom.label               "Увези подешавања, везе, каталоге, лозинке и друге податке из:">
+<!ENTITY importFromUnix.label           "Увези подешавања, везе, каталоге, лозинке и друге податке из:">
+<!ENTITY importFromBookmarks.label      "Увези забелешке из програма:">
+
+<!ENTITY importFromIE.label             "Микрософтов интернет експлорер (Microsoft Internet Explorer)">
+<!ENTITY importFromIE.accesskey         "М">
+<!ENTITY importFromNothing.label        "Не увози ништа">
+<!ENTITY importFromNothing.accesskey    "Н">
+<!ENTITY importFromSafari.label         "Сафари (Safari)">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromChrome.label         "Кроум (Chrome)">
+<!ENTITY importFromChrome.accesskey     "К">
+<!ENTITY importFromFirefox.label        "Фајерфокс">
+<!ENTITY importFromFirefox.accesskey    "Ф">
+
+<!ENTITY noMigrationSources.label       "Није пронађен ниједан програм који садржи забелешке, историјат или лозинке.">
+
+<!ENTITY importSource.title             "Увези подешавања и податке из">
+<!ENTITY importItems.title              "Ставке за увоз">
+<!ENTITY importItems.label              "Изаберите ставке за увоз:">
+
+<!ENTITY migrating.title                "Увоз…">
+<!ENTITY migrating.label                "Наредне ставке се тренутно увозе…">
+
+<!ENTITY selectProfile.title            "Избор профила">
+<!ENTITY selectProfile.label            "Можете увести из следећих профила:">
+
+<!ENTITY done.title                     "Увоз је завршен">
+<!ENTITY done.label                     "Следеће ставке су успешно увезене:">
+

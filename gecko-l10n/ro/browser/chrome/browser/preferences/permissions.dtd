@@ -1,0 +1,39 @@
+<!--
+# Translator(s):
+#
+# raulmalea <raul.malea@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "Excepții">
+<!ENTITY window.width                 "38em">
+
+<!ENTITY treehead.sitename.label      "Sait">
+<!ENTITY treehead.status.label        "Stare">
+<!ENTITY removepermission.label       "Elimină saitul">
+<!ENTITY removepermission.accesskey   "l">
+<!ENTITY removeallpermissions.label   "Elimină toate saiturile">
+<!ENTITY removeallpermissions.accesskey "E">
+<!ENTITY address.label                "Adresa saitului web:">
+<!ENTITY address.accesskey            "A">
+<!ENTITY block.label                  "Blochează">
+<!ENTITY block.accesskey              "B">
+<!ENTITY session.label                "Permite pentru sesiune">
+<!ENTITY session.accesskey            "s">
+<!ENTITY allow.label                  "Permite">
+<!ENTITY allow.accesskey              "P">
+<!ENTITY windowClose.key              "w">
+
+<!ENTITY button.close.label           "Închide">
+<!ENTITY button.close.accesskey       "c">
+
+

@@ -1,0 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "Убрать в Dock">
+<!ENTITY bringAllToFront.label "Все окна — на передний план">
+<!ENTITY zoomWindow.label "Изменить масштаб">
+<!ENTITY windowMenu.label "Окно">
+<!ENTITY helpMenu.label "Справка">
+<!ENTITY helpMenu.accesskey "С">
+<!ENTITY helpMenuWin.label "Справка">
+<!ENTITY helpMenuWin.accesskey "С">
+<!ENTITY aboutProduct.label "О &brandShortName;">
+<!ENTITY aboutProduct.accesskey "О">
+<!ENTITY productHelp.label "Справка &brandShortName;">
+<!ENTITY productHelp.accesskey "к">
+<!ENTITY helpMac.commandkey "?">
+<!ENTITY helpKeyboardShortcuts.label "Сочетания клавиш">
+<!ENTITY helpKeyboardShortcuts.accesskey "ч">
+<!ENTITY helpSafeMode.label "Перезапустить без дополнений…">
+<!ENTITY helpSafeMode.accesskey "е">
+<!ENTITY healthReport.label "Отчёт о работоспособности &brandShortName;">
+<!ENTITY healthReport.accesskey "б">
+<!ENTITY helpTroubleshootingInfo.label "Информация для решения проблем">
+<!ENTITY helpTroubleshootingInfo.accesskey "а">
+<!ENTITY helpFeedbackPage.label "Отправить отзыв…">
+<!ENTITY helpFeedbackPage.accesskey "т">
+<!ENTITY preferencesCmdMac.label "Настройки…">
+<!ENTITY preferencesCmdMac.commandkey ",">
+<!ENTITY servicesMenuMac.label "Службы">
+<!ENTITY hideThisAppCmdMac.label "Скрыть &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.label "Скрыть остальные">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY showAllAppsCmdMac.label "Показать все">

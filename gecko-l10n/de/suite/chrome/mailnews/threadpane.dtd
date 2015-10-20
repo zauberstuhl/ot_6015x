@@ -1,0 +1,45 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY threadColumn.label "Thread">
+<!ENTITY fromColumn.label "Von">
+<!ENTITY recipientColumn.label "Empfänger">
+<!ENTITY attachmentColumn.label "Anhänge">
+<!ENTITY subjectColumn.label "Betreff">
+<!ENTITY dateColumn.label "Datum">
+<!ENTITY priorityColumn.label "Priorität">
+<!ENTITY tagsColumn.label "Tags">
+<!ENTITY accountColumn.label "Account">
+<!ENTITY statusColumn.label "Status">
+<!ENTITY sizeColumn.label "Größe">
+<!ENTITY junkStatusColumn.label "Junk-Status">
+<!ENTITY unreadColumn.label "Ungelesen im Thread">
+<!ENTITY totalColumn.label "Gesamt im Thread">
+<!ENTITY readColumn.label "Gelesen">
+<!ENTITY receivedColumn.label "Empfangen">
+<!ENTITY flagColumn.label "Kennzeichnung">
+<!ENTITY locationColumn.label "Adresse">
+<!ENTITY idColumn.label "Empfangsreihenfolge">
+
+<!--Tooltips-->
+<!ENTITY columnChooser.tooltip "Klicken Sie, um die anzuzeigenden Spalten zu wählen">
+<!ENTITY threadColumn.tooltip "Klicken, um Nachrichten-Threads anzuzeigen"> 
+<!ENTITY fromColumn.tooltip "Klicken, um nach Von zu sortieren">
+<!ENTITY recipientColumn.tooltip "Klicken Sie hier, um nach Empfänger zu sortieren">
+<!ENTITY attachmentColumn.tooltip "Klicken, um nach Anhängen zu sortieren">
+<!ENTITY subjectColumn.tooltip "Klicken, um nach Betreff zu sortieren">
+<!ENTITY dateColumn.tooltip "Klicken, um nach Datum zu sortieren">
+<!ENTITY priorityColumn.tooltip "Klicken, um nach Priorität zu sortieren">
+<!ENTITY tagsColumn.tooltip "Klicken, um nach Tags zu sortieren">
+<!ENTITY accountColumn.tooltip "Klicken, um nach Account zu sortieren">
+<!ENTITY statusColumn.tooltip "Klicken, um nach Status zu sortieren">
+<!ENTITY sizeColumn.tooltip "Klicken, um nach Größe zu sortieren">
+<!ENTITY junkStatusColumn.tooltip "Klicken, um nach Junk-Status zu sortieren">
+<!ENTITY unreadColumn.tooltip "Anzahl der ungelesenen Nachrichten im Thread">
+<!ENTITY totalColumn.tooltip "Gesamtzahl der Nachrichten im Thread">
+<!ENTITY readColumn.tooltip "Klicken, um nach Gelesen-Status zu sortieren">
+<!ENTITY receivedColumn.tooltip "Klicken, um nach Empfangsdatum zu sortieren">
+<!ENTITY flagColumn.tooltip "Klicken, um nach Kennzeichnung zu sortieren">
+<!ENTITY locationColumn.tooltip "Klicken, um nach Adresse zu sortieren">
+<!ENTITY idColumn.tooltip "Klicken, um nach Eingangsreihenfolge zu sortieren">

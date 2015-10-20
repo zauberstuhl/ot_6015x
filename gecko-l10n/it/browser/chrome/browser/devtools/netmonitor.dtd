@@ -1,0 +1,55 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY netmonitorUI.emptyNotice2 "Effettuare una richiesta o ricaricare la pagina per visualizzare informazioni dettagliate sull’attività di rete.">
+<!ENTITY netmonitorUI.toolbar.status2 "✓">
+<!ENTITY netmonitorUI.toolbar.method "Metodo">
+<!ENTITY netmonitorUI.toolbar.file "File">
+<!ENTITY netmonitorUI.toolbar.domain "Dominio">
+<!ENTITY netmonitorUI.toolbar.type "Tipo">
+<!ENTITY netmonitorUI.toolbar.size "Dimensione">
+<!ENTITY netmonitorUI.toolbar.waterfall "Sequenza temporale">
+<!ENTITY netmonitorUI.tab.headers "Header">
+<!ENTITY netmonitorUI.tab.cookies "Cookie">
+<!ENTITY netmonitorUI.tab.params "Parametri">
+<!ENTITY netmonitorUI.tab.response "Risposta">
+<!ENTITY netmonitorUI.tab.timings "Tempi">
+<!ENTITY netmonitorUI.footer.filterAll "Tutto">
+<!ENTITY netmonitorUI.footer.filterHTML "HTML">
+<!ENTITY netmonitorUI.footer.filterCSS "CSS">
+<!ENTITY netmonitorUI.footer.filterJS "JS">
+<!ENTITY netmonitorUI.footer.filterXHR "XHR">
+<!ENTITY netmonitorUI.footer.filterFonts "Caratteri">
+<!ENTITY netmonitorUI.footer.filterImages "Immagini">
+<!ENTITY netmonitorUI.footer.filterMedia "Media">
+<!ENTITY netmonitorUI.footer.filterFlash "Flash">
+<!ENTITY netmonitorUI.footer.clear "Cancella">
+<!ENTITY netmonitorUI.panesButton.tooltip "Visualizza informazioni sulla rete">
+<!ENTITY netmonitorUI.summary.url "URL richiesta:">
+<!ENTITY netmonitorUI.summary.method "Metodo di richiesta:">
+<!ENTITY netmonitorUI.summary.status "Status code:">
+<!ENTITY netmonitorUI.summary.version "Versione:">
+<!ENTITY netmonitorUI.summary.size "Dimensioni header:">
+<!ENTITY netmonitorUI.response.name "Nome:">
+<!ENTITY netmonitorUI.response.dimensions "Dimensioni:">
+<!ENTITY netmonitorUI.response.mime "Tipo MIME:">
+<!ENTITY netmonitorUI.response.encoding "Codifica:">
+<!ENTITY netmonitorUI.timings.blocked "Bloccato:">
+<!ENTITY netmonitorUI.timings.dns "Risoluzione DNS:">
+<!ENTITY netmonitorUI.timings.connect "Connessione:">
+<!ENTITY netmonitorUI.timings.send "Invio:">
+<!ENTITY netmonitorUI.timings.wait "In attesa:">
+<!ENTITY netmonitorUI.timings.receive "Ricezione:">
+<!ENTITY netmonitorUI.context.copyUrl "Copia URL">
+<!ENTITY netmonitorUI.context.copyUrl.accesskey "C">
+<!ENTITY netmonitorUI.summary.editAndResend "Modifica e reinvia">
+<!ENTITY netmonitorUI.summary.editAndResend.accesskey "r">
+<!ENTITY netmonitorUI.context.newTab "Apri in nuova scheda">
+<!ENTITY netmonitorUI.context.newTab.accesskey "A">
+<!ENTITY netmonitorUI.custom.newRequest "Nuova richiesta">
+<!ENTITY netmonitorUI.custom.query "Stringa query:">
+<!ENTITY netmonitorUI.custom.headers "Header della richiesta:">
+<!ENTITY netmonitorUI.custom.postData "Corpo della richiesta:">
+<!ENTITY netmonitorUI.custom.send "Invia">
+<!ENTITY netmonitorUI.custom.cancel "Annulla">

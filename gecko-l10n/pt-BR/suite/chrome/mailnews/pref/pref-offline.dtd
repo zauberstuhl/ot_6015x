@@ -1,0 +1,34 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from content/pref-offline.xul -->
+
+<!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
+<!ENTITY pref.offline.title               "Modo desconectado &amp; espaço em disco">
+<!ENTITY pref.offline.caption             "Modo desconectado">
+<!ENTITY textStartUp                      "Ao iniciar:">
+<!ENTITY textStartUp.accesskey            "A">
+<!ENTITY menuitemRememberPrevState        "Lembrar o último modo utilizado">
+<!ENTITY menuitemAskMe                    "Perguntar-me se eu desejo iniciar em modo conectado ou desconectado">
+<!ENTITY menuitemAlwaysOnline             "Sempre iniciar no modo conectado">
+<!ENTITY menuitemAlwaysOffline            "Sempre iniciar no modo desconectado">
+<!ENTITY menuitemAutomatic                "Detectar automaticamente (se disponível)">
+<!ENTITY textGoingOnline                  "Ao sair do modo desconectado enviar as mensagens da pasta &quot;Saída&quot;:">
+<!ENTITY radioAutoSend                    "Sim">
+<!ENTITY radioAutoSend.accesskey          "S">
+<!ENTITY radioNotSend                     "Não">
+<!ENTITY radioNotSend.accesskey           "N">
+<!ENTITY radioAskUnsent                   "Perguntar">
+<!ENTITY radioAskUnsent.accesskey         "P">
+<!ENTITY textGoingOffline                 "Receber mensagens antes de desconectar:">
+<!ENTITY radioAutoDownload                "Sim">
+<!ENTITY radioAutoDownload.accesskey      "m">
+<!ENTITY radioNotDownload                 "Não">
+<!ENTITY radioNotDownload.accesskey       "o">
+<!ENTITY radioAskDownload                 "Perguntar">
+<!ENTITY radioAskDownload.accesskey       "e">
+<!ENTITY Diskspace                        "Espaço em disco">
+<!ENTITY offlineCompact.label             "Compactar pastas quando puder liberar pelo menos">
+<!ENTITY offlineCompact.accesskey         "C">
+<!ENTITY kb.label                         "KB">

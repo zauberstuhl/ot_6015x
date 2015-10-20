@@ -1,0 +1,50 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- The page shown when not logged in... -->
+
+<!ENTITY setupButton.label          "Постави го &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "с">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; Ви дозволува да имате пристап до Вашата историја, обележувачи, лозинки и отворени јазичиња на сите Ваши уреди.">
+<!-- The page shown when logged in... -->
+<!-- Login error feedback -->
+
+
+<!ENTITY updatePass.label             "Надградба">
+<!ENTITY resetPass.label              "Ресетирај">
+<!-- Manage Account -->
+
+<!ENTITY manageAccount.label          "Уреди ја сметката">
+<!ENTITY manageAccount.accesskey      "а">
+<!ENTITY viewQuota.label              "Види ограничување">
+<!ENTITY changePassword2.label        "Смени ја лозинката...">
+<!ENTITY myRecoveryKey.label          "Мојот безбеден клуч">
+<!ENTITY resetSync2.label             "Ресетирај го Sync…">
+
+<!ENTITY pairDevice.label             "Спари уред">
+
+<!ENTITY syncMy.label               "Синхорнизирај ги моите">
+<!ENTITY engine.bookmarks.label     "Обележувачи">
+<!ENTITY engine.bookmarks.accesskey "б">
+<!ENTITY engine.tabs.label          "Јазичиња">
+<!ENTITY engine.tabs.accesskey      "Ј">
+<!ENTITY engine.history.label       "Историја">
+<!ENTITY engine.history.accesskey   "р">
+<!ENTITY engine.passwords.label     "Лозинки">
+<!ENTITY engine.passwords.accesskey "Л">
+<!ENTITY engine.prefs.label         "Преференции">
+<!ENTITY engine.prefs.accesskey     "ф">
+<!ENTITY engine.addons.label        "Додатоци">
+<!ENTITY engine.addons.accesskey    "а">
+<!-- Device Settings -->
+
+<!ENTITY unlinkDevice.label           "Прекини ја врската со овој уред">
+<!-- Footer stuff -->
+
+<!ENTITY prefs.tosLink.label        "Услови за употреба">
+<!ENTITY prefs.ppLink.label         "Политика за приватност">
+
+<!ENTITY syncDeviceName.accesskey   "м">
+
+<!-- Device Settings -->
+<!ENTITY syncDeviceName.label       "Име на уред:">

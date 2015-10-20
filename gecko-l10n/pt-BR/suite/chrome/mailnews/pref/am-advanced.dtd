@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY smtpServer.label "Enviar mensagens">
+<!ENTITY smtpDesc.label "Apenas um servidor SMTP (utilizado para enviar mensagens) precisa ser especificado, mesmo que você tenha múltiplas contas de mail.">
+<!ENTITY smtpListAdd.label "Adicionar...">
+<!ENTITY smtpListAdd.accesskey "d">
+<!ENTITY smtpListEdit.label "Editar...">
+<!ENTITY smtpListEdit.accesskey "E">
+<!ENTITY smtpListDelete.label "Remover">
+<!ENTITY smtpListDelete.accesskey "m">
+<!ENTITY smtpListSetDefault.label "Definir como padrão">
+<!ENTITY smtpListSetDefault.accesskey "p">
+<!ENTITY serverDescription.label "Descrição:">
+<!ENTITY serverName.label "Servidor:">
+<!ENTITY serverPort.label "Porta: ">
+<!ENTITY userName.label "Usuário: ">
+<!ENTITY useSecureAuthentication.label "Autenticação segura: ">
+<!ENTITY connectionSecurity.label "Segurança da conexão: ">

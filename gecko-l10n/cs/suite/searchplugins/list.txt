@@ -1,0 +1,4 @@
+google
+seznam-cz
+heureka-cz
+wikipedia-cz

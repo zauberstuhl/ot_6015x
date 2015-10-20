@@ -1,0 +1,20 @@
+#
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+MOZILLA_INTERNAL_API = 1
+
+LOCAL_INCLUDES += -I$(srcdir)/../../../../xptinfo/src
+
+
+ifneq ($(TARGET_CPU),x86_64)
+ifndef GNU_CXX
+# FIXME: bug 413019
+NO_PROFILE_GUIDED_OPTIMIZE = 1
+endif #!GNU_CXX
+endif #!x86_64
+
+include $(topsrcdir)/config/rules.mk
+
+LOCAL_INCLUDES	+= -I$(srcdir)/../..

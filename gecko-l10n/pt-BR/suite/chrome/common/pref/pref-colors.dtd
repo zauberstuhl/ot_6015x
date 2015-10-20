@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pref.colors.title "Cores">
+<!ENTITY color "Cores padrão">
+<!ENTITY textColor.label "Texto:">
+<!ENTITY textColor.accesskey "T">
+<!ENTITY backgroundColor.label "Plano de fundo:">
+<!ENTITY backgroundColor.accesskey "p">
+<!ENTITY useSystemColors.label "Usar cores do sistema">
+<!ENTITY useSystemColors.accesskey "u">
+<!ENTITY underlineLinks.label "Sublinhar">
+<!ENTITY underlineLinks.accesskey "s">
+<!ENTITY links "Aparência padrão dos links">
+<!ENTITY linkColor.label "Não visitados:">
+<!ENTITY linkColor.accesskey "n">
+<!ENTITY activeLinkColor.label "Links ativos:">
+<!ENTITY activeLinkColor.accesskey "a">
+<!ENTITY visitedLinkColor.label "Visitados:">
+<!ENTITY visitedLinkColor.accesskey "v">
+<!ENTITY someProvColors "Aplicar cores">
+<!ENTITY alwaysUseDocumentColors.label "Usar as cores especificadas pela página">
+<!ENTITY alwaysUseDocumentColors.accesskey "e">
+<!ENTITY useMyColors.label "Sempre usar as cores padrão">
+<!ENTITY useMyColors.accesskey "m">

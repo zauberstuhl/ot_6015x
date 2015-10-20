@@ -1,0 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY windowTitle.label "Salva e cambia codifica caratteri">
+<!ENTITY documentTitleTitle.label "Titolo pagina">
+<!ENTITY documentCharsetTitle.label "Codifica caratteri">
+<!ENTITY documentCharsetDesc.label "Selezionare la codifica caratteri in cui si vuole salvare un documento:">
+<!ENTITY documentExportToText.label "Esporta come testo">

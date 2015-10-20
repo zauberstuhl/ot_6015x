@@ -1,0 +1,43 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY threadColumn.label "Conversación">
+<!ENTITY fromColumn.label "Remitente">
+<!ENTITY recipientColumn.label "Destinatario">
+<!ENTITY attachmentColumn.label "Adjuntos">
+<!ENTITY subjectColumn.label "Asunto">
+<!ENTITY dateColumn.label "Fecha">
+<!ENTITY priorityColumn.label "Prioridad">
+<!ENTITY tagsColumn.label "Etiquetas">
+<!ENTITY accountColumn.label "Cuenta">
+<!ENTITY statusColumn.label "Estado">
+<!ENTITY sizeColumn.label "Tamaño">
+<!ENTITY junkStatusColumn.label "Estado de correo basura">
+<!ENTITY unreadColumn.label "No leídos en la conversación">
+<!ENTITY totalColumn.label "Total en la conversación">
+<!ENTITY readColumn.label "Leído">
+<!ENTITY receivedColumn.label "Recibido">
+<!ENTITY flagColumn.label "Señal">
+<!ENTITY locationColumn.label "Ubicación">
+<!ENTITY idColumn.label "Orden de recepción">
+<!ENTITY columnChooser.tooltip "Pulse para seleccionar las columnas a mostrar">
+<!ENTITY threadColumn.tooltip "Haga clic para mostrar las conversaciones de mensajes">
+<!ENTITY fromColumn.tooltip "Pulse para ordenar por remitente">
+<!ENTITY recipientColumn.tooltip "Pulse para ordenar por destinatario">
+<!ENTITY attachmentColumn.tooltip "Pulse para ordenar por adjuntos">
+<!ENTITY subjectColumn.tooltip "Pulse para ordenar por asunto">
+<!ENTITY dateColumn.tooltip "Pulse para ordenar por fecha">
+<!ENTITY priorityColumn.tooltip "Pulse para ordenar por prioridad">
+<!ENTITY tagsColumn.tooltip "Pulse para ordenar por etiquetas">
+<!ENTITY accountColumn.tooltip "Pulse para ordenar por cuenta">
+<!ENTITY statusColumn.tooltip "Pulse para ordenar por estado">
+<!ENTITY sizeColumn.tooltip "Pulse para ordenar por tamaño">
+<!ENTITY junkStatusColumn.tooltip "Pulse para ordenar por estado de correo basura">
+<!ENTITY unreadColumn.tooltip "Número de mensajes no leídos en una conversación">
+<!ENTITY totalColumn.tooltip "Número total de mensajes en la conversación">
+<!ENTITY readColumn.tooltip "Pulse para ordenar por leídos">
+<!ENTITY receivedColumn.tooltip "Pulse para ordenar por fecha de recepción">
+<!ENTITY flagColumn.tooltip "Pulse para ordenar por señal">
+<!ENTITY locationColumn.tooltip "Pulse para ordenar por dirección">
+<!ENTITY idColumn.tooltip "Pulse para ordenar por orden de recepción">

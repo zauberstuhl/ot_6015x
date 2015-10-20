@@ -1,0 +1,44 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY closeCmd.key "W">
+<!ENTITY toolboxCloseButton.tooltip "Chiudi strumenti per sviluppatori">
+<!ENTITY toolboxOptionsButton.key "o">
+<!ENTITY toolboxNextTool.key "à">
+<!ENTITY toolboxPreviousTool.key "ò">
+<!ENTITY toolboxZoomIn.key "+">
+<!ENTITY toolboxZoomIn.key2 "=">
+<!ENTITY toolboxZoomOut.key "-">
+<!ENTITY toolboxZoomReset.key "0">
+<!ENTITY options.context.advancedSettings "Impostazioni avanzate">
+<!ENTITY options.context.inspector "Analisi pagina">
+<!ENTITY options.defaultColorUnit.label "Unità predefinita colori:">
+<!ENTITY options.defaultColorUnit.accesskey "U">
+<!ENTITY options.defaultColorUnit.hex "esadecimale">
+<!ENTITY options.defaultColorUnit.hsl "HSL(A)">
+<!ENTITY options.defaultColorUnit.rgb "RGB(A)">
+<!ENTITY options.defaultColorUnit.name "nomi dei colori">
+<!ENTITY options.context.triggersPageRefresh "* solo sessione corrente, ricarica la pagina">
+<!ENTITY options.enableChrome.label3 "Attiva debug chrome">
+<!ENTITY options.enableChrome.tooltip "Attivando questa opzione è possibile utilizzare diversi strumenti di sviluppo direttamente sul browser">
+<!ENTITY options.enableRemote.label3 "Attiva debug remoto">
+<!ENTITY options.enableRemote.tooltip "Attivando questa opzione è possibile utilizzare gli strumenti di sviluppo per effettuare il debug su istanze remote di Firefox come Firefox OS">
+<!ENTITY options.disableJavaScript.label "Disattiva JavaScript *">
+<!ENTITY options.disableJavaScript.tooltip "Attivando questa opzione, JavaScript verrà disattivato per la scheda corrente. Se la scheda o gli strumenti per sviluppatori vengono chiusi l’impostazione verrà rimossa.">
+<!ENTITY options.disableCache.label "Disattiva cache *">
+<!ENTITY options.disableCache.tooltip "Attivando questa opzione, la cache verrà disattivata per la scheda corrente. Se la scheda o gli strumenti per sviluppatori vengono chiusi l’impostazione verrà rimossa.">
+<!ENTITY options.selectDefaultTools.label "Strumenti di sviluppo predefiniti di Firefox">
+<!ENTITY options.selectAdditionalTools.label "Strumenti di sviluppo installati da componenti aggiuntivi">
+<!ENTITY options.toolNotSupported.label "* Non supportato per il target corrente degli strumenti">
+<!ENTITY options.selectDevToolsTheme.label "Scelta del tema:">
+<!ENTITY options.darkTheme.label "Tema scuro">
+<!ENTITY options.lightTheme.label "Tema chiaro">
+<!ENTITY options.webconsole.label "Console web">
+<!ENTITY options.enablePersistentLogging.label "Attiva registri permanenti">
+<!ENTITY options.enablePersistentLogging.tooltip "Attivando questa opzione la Console web non verrà azzerata ogni volta che si naviga in una nuova pagina">
+<!ENTITY options.timestampMessages.label "Attiva timestamp">
+<!ENTITY options.timestampMessages.tooltip "Attivando questa opzione verrà visualizzato nella Console web il timestamp associato a comandi e risultati">
+<!ENTITY options.profiler.label "Profiler JavaScript">
+<!ENTITY options.showPlatformData.label "Visualizza dati piattaforma Gecko">
+<!ENTITY options.showPlatformData.tooltip "Attivando questa opzione i rapporti del Profiler JavaScript conterranno i simboli della piattaforma Gecko">

@@ -1,0 +1,33 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pref.formatting.title "Формат отправки">
+<!ENTITY sendMaildesc.label "При отправке сообщений в формате HTML, когда указано, что один или более адресатов не могут получать почту в формате HTML:">
+<!ENTITY askMe.label "Спрашивать (почтовый клиент спросит, какой формат использовать)">
+<!ENTITY askMe.accesskey "С">
+<!ENTITY convertPlain.label "Преобразовать сообщение в текстовое (часть форматирования может быть утеряна)">
+<!ENTITY convertPlain.accesskey "р">
+<!ENTITY sendHTML.label "Отправлять сообщения в HTML (некоторые почтовые программы не смогут корректно отобразить их)">
+<!ENTITY sendHTML.accesskey "л">
+<!ENTITY sendBoth.label "Отправлять сообщения и в текстовом и в HTML-формате (больший размер письма)">
+<!ENTITY sendBoth.accesskey "и">
+<!ENTITY override.label "Вы можете аннулировать эти настройки для отдельных сообщений в меню «Настройки» в окне составления сообщений.">
+<!ENTITY domain.title "Домены, (не) поддерживающие HTML">
+<!ENTITY domaindesc.label "При отправке сообщения на адрес, доменная часть которого находится в одном из списков ниже, почтовый клиент автоматически отправляет это сообщение в нужном формате (HTML или обычный текст).">
+<!ENTITY HTMLdomaintitle.label "Поддержка HTML">
+<!ENTITY HTMLdomaintitle.accesskey "П">
+<!ENTITY PlainTexttitle.label "Поддержка только текста">
+<!ENTITY PlainTexttitle.accesskey "т">
+<!ENTITY AddButton.label "Добавить…">
+<!ENTITY AddHtmlDomain.accesskey "о">
+<!ENTITY AddPlainText.accesskey "б">
+<!ENTITY DeleteButton.label "Удалить">
+<!ENTITY DeleteHtmlDomain.accesskey "д">
+<!ENTITY DeletePlainText.accesskey "л">
+<!ENTITY add.htmltitle "Добавить имя в список «Поддержка HTML»">
+<!ENTITY add.htmldomain "Имя домена:">
+<!ENTITY add.plaintexttitle "Добавить имя в список «Поддержка только текста»">
+<!ENTITY add.plaintextdomain "Имя домена:">
+<!ENTITY domainnameError.title "Ошибка">
+<!ENTITY invalidEntryError.label "Имя домена @string@ некорректно и будет проигнорировано. Корректные имена доменов имеют по меньшей мере одну «.» и символы слева и справа от неё.">

@@ -1,0 +1,39 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# Marin Bînzari <spartakusmd@gmail.com>
+# turcan <nicturcan@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY reminderdialog.title                              "Setare memento">
+<!ENTITY reminder.add.label                                "Adaugă">
+<!ENTITY reminder.add.accesskey                            "A">
+<!ENTITY reminder.remove.label                             "Șterge">
+<!ENTITY reminder.remove.accesskey                         "r">
+
+<!ENTITY reminder.reminderDetails.label                    "Detalii despre memento">
+<!ENTITY reminder.action.label                             "Alege o acțiune pentru memento">
+
+<!ENTITY reminder.relation.before.label                    "înainte de" >
+<!ENTITY reminder.relation.after.label                     "după" >
+
+<!ENTITY reminder.action.alert.label                       "Arată o alertă">
+<!ENTITY reminder.action.email.label                       "Trimite un email">
+
+<!ENTITY alarm.units.minutes                               "minute" >
+<!ENTITY alarm.units.hours                                 "ore" >
+<!ENTITY alarm.units.days                                  "zile" >
+

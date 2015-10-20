@@ -1,0 +1,144 @@
+<!--
+# Translator(s):
+#
+# raulmalea <raul.malea@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# janimo <jani@ubuntu.com>
+# https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw <https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw>
+# nicubunu <nicubunu@gmail.com>
+# purica <haliciu@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+# strainu <narro@strainu.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# raulmalea <raul.malea@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemGeneral.label       "General">
+<!ENTITY itemDisplay.label       "Citire și afișare">
+<!ENTITY itemUpdate.label        "Actualizare">
+<!ENTITY itemNetworking.label    "Rețea și spațiu pe disc">
+<!ENTITY itemCertificates.label  "Certificate">
+
+<!-- General Settings -->
+
+<!ENTITY submitTelemetry.label         "Trimite date despre performanță">
+<!ENTITY submitTelemetry.accesskey     "p">
+<!ENTITY telemetryInfoLink.label       "Detalii despre telemetrie">
+<!ENTITY enableGlodaSearch.label       "Activează căutarea globală și indexarea">
+<!ENTITY enableGlodaSearch.accesskey   "i">
+
+<!ENTITY scrolling.label               "Derulare">
+<!ENTITY useAutoScroll.label           "Folosește derularea automată">
+<!ENTITY useAutoScroll.accesskey       "f">
+<!ENTITY useSmoothScrolling.label      "Folosește derularea lină">
+<!ENTITY useSmoothScrolling.accesskey  "o">
+
+<!ENTITY systemIntegration.label       "Integrare cu sistemul">
+<!ENTITY alwaysCheckDefault.label      "Verifică întotdeauna la pornire dacă &brandShortName; este clientul implicit de email">
+<!ENTITY alwaysCheckDefault.accesskey  "l">
+<!ENTITY searchIntegration.label       "Permite la &searchIntegration.engineName; să caute în mesaje">
+<!ENTITY searchIntegration.accesskey   "P">
+<!ENTITY checkDefaultsNow.label        "Verifică acum...">
+<!ENTITY checkDefaultsNow.accesskey    "v">
+<!ENTITY configEditDesc.label          "Configurare avansată">
+<!ENTITY configEdit.label              "Editor de configurație…">
+<!ENTITY configEdit.accesskey          "g">
+<!ENTITY returnReceiptsInfo.label      "Configurați gestionarea confirmărilor de primire">
+<!ENTITY showReturnReceipts.label      "Confirmări de primire…">
+<!ENTITY showReturnReceipts.accesskey  "r">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption               "Citire">
+<!ENTITY display.caption               "Afișare">
+<!ENTITY showCondensedAddresses.label  "Arată numai numele pentru cei din agenda mea de contacte">
+<!ENTITY showCondensedAddresses.accesskey "d">
+
+<!ENTITY autoMarkAsRead.label          "Marchează automat mesajele ca citite">
+<!ENTITY autoMarkAsRead.accesskey      "a">
+<!ENTITY markAsReadNoDelay.label       "Imediat la afișare">
+<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "După ce sunt afișate">
+<!ENTITY markAsReadDelay.accesskey     "e">
+<!ENTITY secondsLabel.label            "secunde">
+<!ENTITY openMsgIn.label               "Deschide mesajele în:">
+<!ENTITY openMsgInNewTab.label         "O filă nouă">
+<!ENTITY openMsgInNewTab.accesskey     "O">
+<!ENTITY reuseExpRadio0.label          "O fereastră de mesaj nouă">
+<!ENTITY reuseExpRadio0.accesskey      "O">
+<!ENTITY reuseExpRadio1.label          "O fereastră de mesaj existentă">
+<!ENTITY reuseExpRadio1.accesskey      "x">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Închide fereastra sau fila cu mesajul la mutare sau ștergere">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "c">
+
+<!-- Update -->
+<!ENTITY autoCheck.label                "Caută automat actualizări pentru:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "h">
+<!ENTITY enableAddonsUpdate.label       "Suplimente instalate">
+<!ENTITY enableAddonsUpdate.accesskey   "t">
+<!ENTITY whenUpdatesFound.label         "Când sunt găsite actualizări pentru &brandShortName;:">
+<!ENTITY modeAskMe.label                "Întreabă-mă ce vreau să fac">
+<!ENTITY modeAskMe.accesskey            "n">
+<!ENTITY modeAutomatic.label            "Descarcă și instalează actualizarea automat">
+<!ENTITY modeAutomatic.accesskey        "m">
+<!ENTITY modeAutoAddonWarn.label        "Avertizează-mă dacă asta va duce la dezactivarea unora dintre suplimentele mele">
+<!ENTITY modeAutoAddonWarn.accesskey    "-">
+<!ENTITY showUpdates.label              "Arată istoricul actualizărilor">
+<!ENTITY showUpdates.accesskey          "A">
+
+<!ENTITY useService.label                "Folosește serviciul care rulează în fundal pentru a instala actualizări">
+<!ENTITY useService.accesskey            "s">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showSettings.label            "Setări…">
+<!ENTITY showSettings.accesskey        "S">
+<!ENTITY proxiesConfigure.label        "Configurați cum se conectează &brandShortName; la Internet">
+<!ENTITY connectionsInfo.caption       "Conexiune">
+<!ENTITY offlineInfo.caption           "Deconectat">
+<!ENTITY offlineInfo.label             "Configurează preferințele pentru modul deconectat">
+<!ENTITY showOffline.label             "Offline...">
+<!ENTITY showOffline.accesskey         "O">
+
+<!ENTITY Diskspace                       "Spațiu pe disc">
+<!ENTITY offlineCompactFolders.label     "Compactează toate dosarele pentru a salva peste">
+<!ENTITY offlineCompactFolders.accesskey "c">
+<!ENTITY offlineCompactFoldersMB.label   "MB în total">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Folosește până la">
+<!ENTITY useCacheBefore.accesskey        "F">
+<!ENTITY useCacheAfter.label             "MO de spațiu pentru cache">
+<!ENTITY clearCacheNow.label             "Curăță acum">
+<!ENTITY clearCacheNow.accesskey         "C">
+
+<!-- Certificates -->
+<!ENTITY certSelection.description       "Când un server cere certificatul meu personal:">
+<!ENTITY certs.auto                      "Selectează automat unul">
+<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.ask                       "Întreabă-mă de fiecare dată">
+<!ENTITY certs.ask.accesskey             "a">
+
+<!ENTITY viewCertificates.label         "Vizualizare certificate">
+<!ENTITY viewCertificates.accesskey     "a">
+<!ENTITY validation.label               "Validare">
+<!ENTITY validation.accesskey           "d">
+<!ENTITY viewSecurityDevices.label      "Dispozitive de securitate">
+<!ENTITY viewSecurityDevices.accesskey  "u">
+

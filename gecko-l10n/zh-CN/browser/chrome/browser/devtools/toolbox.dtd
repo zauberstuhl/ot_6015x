@@ -1,0 +1,127 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the Toolbox strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate key -->
+
+<!ENTITY closeCmd.key  "W">
+
+<!ENTITY toolboxCloseButton.tooltip    "关闭开发者工具">
+<!ENTITY toolboxOptionsButton.key      "O">
+<!ENTITY toolboxNextTool.key           "]">
+<!ENTITY toolboxPreviousTool.key       "[">
+
+<!ENTITY toolboxZoomIn.key             "+">
+<!ENTITY toolboxZoomIn.key2            "="> <!-- + is above this key on many keyboards -->
+<!ENTITY toolboxZoomOut.key            "-">
+<!ENTITY toolboxZoomReset.key          "0">
+
+<!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
+  -  the heading of the advanced settings group in the options panel. -->
+<!ENTITY options.context.advancedSettings "高级设置">
+
+<!-- LOCALIZATION NOTE (options.context.inspector): This is the label for
+  -  the heading of the Inspector group in the options panel. -->
+<!ENTITY options.context.inspector "查看器">
+
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
+  -  dropdown list that controls the default color unit used in the inspector.
+  -  This label is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.label "默认颜色单位">
+
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
+  -  key for a dropdown list that controls the default color unit used in the
+  -  inspector. This is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.accesskey "U">
+
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
+  -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.hex "Hex">
+
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.hsl): This is used in the
+  -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.hsl "HSL(A)">
+
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.rgb): This is used in the
+  -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.rgb "RGB(A)">
+
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.name): This is used in
+  -  the 'Default color unit' dropdown list and is visible in the options panel.
+  -  -->
+<!ENTITY options.defaultColorUnit.name "颜色名">
+
+<!-- LOCALIZATION NOTE (options.context.triggersPageRefresh2): This is the
+  -  triggers page refresh label next to the settings in the advanced settings
+  -  group in the options panel which trigger page reload. -->
+<!ENTITY options.context.triggersPageRefresh2  "仅当前会话，将重新载入此页面">
+
+<!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
+  -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
+  -  boolean preference in about:config, in the options panel. -->
+<!ENTITY options.enableChrome.label3    "启用 chrome 调试">
+<!ENTITY options.enableChrome.tooltip   "打开此选项将允许您在浏览器上下文中使用各种开发工具">
+
+<!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
+  -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
+  -  boolean preference in about:config, in the options panel. -->
+<!ENTITY options.enableRemote.label3    "启用远程调试">
+<!ENTITY options.enableRemote.tooltip   "打开此选项将允许开发工具调试远程 Firefox 实例，比如 Firefox OS">
+
+<!-- LOCALIZATION NOTE (options.disableJavaScript.label2,
+  -  options.disableJavaScript.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles JavaScript on or off. -->
+<!ENTITY options.disableJavaScript.label2    "禁用 JavaScript">
+<!ENTITY options.disableJavaScript.tooltip   "启用这个选项将对当前标签页禁用 JavaScript 。如果关闭了该标签页或者工具箱，则这个设置就不再有效。">
+
+<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
+  -  the heading of group of checkboxes corresponding to the default developer
+  -  tools. -->
+<!ENTITY options.selectDefaultTools.label     "默认的 Firefox 开发者工具">
+
+<!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
+  -  the heading of group of checkboxes corresponding to the developer tools
+  -  added by add-ons. This heading is hidden when there is no developer tool
+  -  installed by add-ons. -->
+<!ENTITY options.selectAdditionalTools.label  "附加组件安装的开发者工具">
+
+<!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
+  -  the explanation of the * marker on a tool which is currently not supported
+  -  for the target of the toolbox. -->
+<!ENTITY options.toolNotSupported.label  "* 不支持当前的工具箱目标">
+
+<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
+  -  the heading of the radiobox corresponding to the theme of the developer
+  -  tools. -->
+<!ENTITY options.selectDevToolsTheme.label   "选择开发工具的主题风格：">
+<!ENTITY options.darkTheme.label             "暗色主题">
+<!ENTITY options.lightTheme.label            "亮色主题">
+
+<!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
+  -  heading of the group of Web Console preferences in the options panel. -->
+<!ENTITY options.webconsole.label            "Web 控制台">
+
+<!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
+  -  label for the checkbox that toggles persistent logs in the Web Console,
+  -  i.e. devtools.webconsole.persistlog a boolean preference in about:config,
+  -  in the options panel. -->
+<!ENTITY options.enablePersistentLogging.label    "启用持续日志">
+<!ENTITY options.enablePersistentLogging.tooltip  "如果您启用此选项，Web 控制台将不会在您导航到新页面时清除已输出内容">
+
+<!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
+   - label for the checkbox that toggles timestamps in the Web Console -->
+<!ENTITY options.timestampMessages.label      "启用时间戳">
+<!ENTITY options.timestampMessages.tooltip    "如果启用此选项，Web 控制台中的命令和输出将显示时间戳">
+
+<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
+  -  heading of the group of JavaScript Profiler preferences in the options
+  -  panel. -->
+<!ENTITY options.profiler.label            "JavaScript 分析器">
+
+<!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
+  -  label for the checkbox that toggles the display of the platform data in the,
+  -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
+  -  in about:config, in the options panel. -->
+<!ENTITY options.showPlatformData.label    "显示 Gecko 平台数据">
+<!ENTITY options.showPlatformData.tooltip  "如果开启此选项，JavaScript 分析报告将会包含 Gecko 平台符号表">

@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY zoomEnlargeCmd.accesskey   "A">
+<!ENTITY zoomEnlargeCmd.commandkey  "+">
+<!ENTITY zoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY zoomEnlargeCmd.label       "Aumentar">
+
+<!-- see zoomOtherLabel in viewZoomOverlay.properties -->
+<!ENTITY zoomMenu.accesskey         "Z">
+<!ENTITY zoomOtherCmd.accesskey     "O">
+<!ENTITY zoomReduceCmd.accesskey    "D">
+<!ENTITY zoomReduceCmd.commandkey   "-">
+
+<!ENTITY zoomReduceCmd.label        "Diminuir">
+
+<!ENTITY zoomResetCmd.commandkey    "0">

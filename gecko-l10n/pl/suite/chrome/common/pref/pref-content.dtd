@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pref.content.title "Zawartość">
+<!ENTITY pref.content.description "Te ustawienia mają wpływ na sposób wyświetlania witryn i wiadomości w programie &brandShortName;.">
+<!ENTITY siteIcons.label "Ikony witryn">
+<!ENTITY useSiteIcons.label "Pokaż ikony witryn">
+<!ENTITY useSiteIcons.accesskey "k">
+<!ENTITY useFavIcons.label "Wymuszaj wyszukiwanie ikon dla witryn, które ich nie definiują">
+<!ENTITY useFavIcons.accesskey "W">
+<!ENTITY enableAutomaticImageResizing.label "Dostosuj rozmiar dużych obrazków do okna przeglądarki">
+<!ENTITY enableAutomaticImageResizing.accesskey "d">
+<!ENTITY useSmoothScroll.label "Używaj płynnego przewijania">
+<!ENTITY useSmoothScroll.accesskey "U">
+<!ENTITY allowHWAccel.label "Korzystaj z akceleracji sprzętowej, kiedy jest dostępna">
+<!ENTITY allowHWAccel.accesskey "a">
+<!ENTITY textZoomOnly.label "Powiększaj tylko tekst zamiast całych stron">
+<!ENTITY textZoomOnly.accesskey "P">
+<!ENTITY blockAutoRefresh.label "Ostrzegaj, jeśli witryny próbują przekierować lub odświeżyć stronę">
+<!ENTITY blockAutoRefresh.accesskey "O">
+<!ENTITY siteSpecific.label "Zapamiętaj rozmiary ustawione dla każdej strony">
+<!ENTITY siteSpecific.accesskey "m">

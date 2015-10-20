@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY tabHeader.label "Navegando com abas">
+<!ENTITY tabDisplay.label "Geral">
+<!ENTITY autoHide.label "Exibir a barra de abas apenas se houver mais de uma aba">
+<!ENTITY autoHide.accesskey "d">
+<!ENTITY background.label "Carregar links em primeiro plano">
+<!ENTITY background.accesskey "S">
+<!ENTITY loadGroup.label "Ao abrir um grupo de marcadores">
+<!ENTITY loadGroupAppend.label "Adicionar abas">
+<!ENTITY loadGroupAppend.accesskey "A">
+<!ENTITY loadGroupReplace.label "Substituir as abas existentes">
+<!ENTITY loadGroupReplace.accesskey "S">
+<!ENTITY openTabs.label "Abrir em nova aba quando">
+<!ENTITY newWindow.label "Abrir links">
+<!ENTITY newWindowDescription.label "Forçar links que abrem janelas a abrir">
+<!ENTITY external.label "Links de outros programas">
+<!ENTITY externalDescription.label "Abrir links passados por outros programas">
+<!ENTITY openCurrent.label "Na aba/janela atual">
+<!ENTITY newWindowGroupCurrent.accesskey "a">
+<!ENTITY externalGroupCurrent.accesskey "u">
+<!ENTITY openTab.label "Em nova aba da janela atual">
+<!ENTITY newWindowGroupTab.accesskey "n">
+<!ENTITY externalGroupTab.accesskey "e">
+<!ENTITY openWindow.label "Em nova janela">
+<!ENTITY newWindowGroupWindow.accesskey "j">
+<!ENTITY externalGroupWindow.accesskey "o">

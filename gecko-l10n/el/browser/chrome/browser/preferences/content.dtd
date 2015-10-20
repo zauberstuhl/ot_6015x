@@ -1,0 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+<!ENTITY  advancedFonts.label               "Για προχωρημένους...">
+<!ENTITY  advancedFonts.accesskey           "π">
+<!ENTITY  colors.label                      "Χρώματα...">
+<!ENTITY  colors.accesskey                  "Χ">
+<!ENTITY  defaultFont.label                 "Προεπιλεγμένη γραμματοσειρά:">
+<!ENTITY  defaultFont.accesskey             "γ">
+
+
+
+<!ENTITY  blockPopups.label           "Φραγή αναδυόμενων παραθύρων">
+<!ENTITY  blockPopups.accesskey       "Φ">
+<!ENTITY  popupExceptions.label       "Εξαιρέσεις...">
+<!ENTITY  popupExceptions.accesskey   "ξ">
+
+
+<!ENTITY  defaultSize.label           "Μέγεθος:">
+<!ENTITY  defaultSize.accesskey       "θ">
+
+<!ENTITY  fontsAndColors.label        "Γραμματοσειρές &amp; Χρώματα">
+
+
+
+<!ENTITY languages.label              "Γλώσσες">
+<!ENTITY chooseLanguage.label         "Επιλέξτε την προτιμώμενη γλώσσα για την εμφάνιση των ιστοσελίδων">
+<!ENTITY chooseButton.label           "Επιλογή...">
+<!ENTITY chooseButton.accesskey       "λ">
+

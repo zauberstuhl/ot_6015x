@@ -1,0 +1,38 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY lightning.preferencesLabel "Calendario">
+<!ENTITY lightning.menupopup.new.event.label "Evento…">
+<!ENTITY lightning.menupopup.new.event.accesskey "E">
+<!ENTITY lightning.menupopup.new.task.label "Attività…">
+<!ENTITY lightning.menupopup.new.task.accesskey "A">
+<!ENTITY lightning.menupopup.new.calendar.label "Calendario…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "C">
+<!ENTITY lightning.menupopup.open.label "Apri">
+<!ENTITY lightning.menupopup.open.accesskey "A">
+<!ENTITY lightning.menupopup.open.message.label "Messaggi salvati…">
+<!ENTITY lightning.menupopup.open.message.accesskey "M">
+<!ENTITY lightning.menupopup.open.calendar.label "File calendario…">
+<!ENTITY lightning.menupopup.open.calendar.accesskey "c">
+<!ENTITY lightning.menu.view.calendar.label "Calendario">
+<!ENTITY lightning.menu.view.calendar.accesskey "e">
+<!ENTITY lightning.menu.view.tasks.label "Attività">
+<!ENTITY lightning.menu.view.tasks.accesskey "v">
+<!ENTITY lightning.menu.eventtask.label "Eventi e attività">
+<!ENTITY lightning.menu.eventtask.accesskey "E">
+<!ENTITY lightning.calendarproperties.email.label "E-mail:">
+<!ENTITY lightning.imipbar.description "Questo messaggio contiene un invito ad un evento.">
+<!ENTITY lightning.keys.event.showCalendar.key "C">
+<!ENTITY lightning.keys.event.showTasks.key "D">
+<!ENTITY lightning.keys.event.new "I">
+<!ENTITY lightning.keys.todo.new "D">
+<!ENTITY lightning.acctCentral.newCalendar.label "Crea un nuovo calendario">
+<!ENTITY todaypane.showMinimonth.label "Mostra mini-mese">
+<!ENTITY todaypane.showMinimonth.accesskey "M">
+<!ENTITY todaypane.showMiniday.label "Mostra mini-giorno">
+<!ENTITY todaypane.showMiniday.accesskey "o">
+<!ENTITY todaypane.showNone.label "Non mostrare niente">
+<!ENTITY todaypane.showNone.accesskey "s">
+<!ENTITY todaypane.showTodayPane.label "Mostra il pannello Oggi">
+<!ENTITY todaypane.showTodayPane.accesskey "n">
+<!ENTITY todaypane.statusButton.label "Pannello Oggi">

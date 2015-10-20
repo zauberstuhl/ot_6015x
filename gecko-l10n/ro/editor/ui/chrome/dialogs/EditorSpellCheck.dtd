@@ -1,0 +1,54 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "Verificare ortografică">
+
+<!ENTITY misspelledWord.label "Cuvânt greșit:">
+<!ENTITY wordEditField.label "Înlocuiește cu:">
+<!ENTITY wordEditField.accessKey "c">
+<!ENTITY checkwordButton.label "Verifică cuvânt">
+<!ENTITY checkwordButton.accessKey "v">
+<!ENTITY suggestions.label "Sugestii:">
+<!ENTITY suggestions.accessKey "U">
+<!ENTITY ignoreButton.label "Ignoră">
+<!ENTITY ignoreButton.accessKey "I">
+<!ENTITY ignoreAllButton.label "Ignoră toate">
+<!ENTITY ignoreAllButton.accessKey "N">
+<!ENTITY replaceButton.label "Înlocuiește">
+<!ENTITY replaceButton.accessKey "L">
+<!ENTITY replaceAllButton.label "Înlocuiește toate">
+<!ENTITY replaceAllButton.accessKey "O">
+<!ENTITY stopButton.label "Oprește">
+<!ENTITY stopButton.accessKey "T">
+<!ENTITY userDictionary.label "Dicționar personal:">
+<!ENTITY moreDictionaries.label "Descarcă mai multe dicționare…">
+<!ENTITY addToUserDictionaryButton.label "Adaugă cuvânt">
+<!ENTITY addToUserDictionaryButton.accessKey "d">
+<!ENTITY editUserDictionaryButton.label "Editează…">
+<!ENTITY editUserDictionaryButton.accessKey "E">
+<!ENTITY recheckButton.label "Verifică din nou pagina">
+<!ENTITY recheckButton.accessKey "P">
+<!ENTITY closeButton.label "Închide">
+<!ENTITY closeButton.accessKey "H">
+<!ENTITY sendButton.label "Trimite">
+<!ENTITY sendButton.accessKey "M">
+<!ENTITY languagePopup.label "Limbă:">
+<!ENTITY languagePopup.accessKey "L">
+

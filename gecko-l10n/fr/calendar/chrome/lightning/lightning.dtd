@@ -1,0 +1,63 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!-- Tools menu -->
+<!ENTITY lightning.preferencesLabel "Agenda">
+
+<!-- New menu popup in File menu -->
+<!ENTITY lightning.menupopup.new.event.label    "Évènement…">
+<!ENTITY lightning.menupopup.new.event.accesskey "v">
+<!ENTITY lightning.menupopup.new.task.label     "Tâche…">
+<!ENTITY lightning.menupopup.new.task.accesskey "T">
+<!ENTITY lightning.menupopup.new.calendar.label "Agenda…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "A">
+
+<!-- Open menu popup in File menu -->
+<!ENTITY lightning.menupopup.open.label               "Ouvrir">
+<!ENTITY lightning.menupopup.open.accesskey           "O">
+<!ENTITY lightning.menupopup.open.message.label       "Message enregistré…">
+<!ENTITY lightning.menupopup.open.message.accesskey   "M">
+<!ENTITY lightning.menupopup.open.calendar.label      "Fichier d'agenda…">
+<!ENTITY lightning.menupopup.open.calendar.accesskey  "F">
+
+<!-- View Menu -->
+<!ENTITY lightning.menu.view.calendar.label            "Agenda">
+<!ENTITY lightning.menu.view.calendar.accesskey        "d">
+<!ENTITY lightning.menu.view.tasks.label               "Tâches">
+<!ENTITY lightning.menu.view.tasks.accesskey           "T">
+
+<!-- Events and Tasks menu -->
+<!ENTITY lightning.menu.eventtask.label                "Évènements et tâches">
+<!ENTITY lightning.menu.eventtask.accesskey            "v">
+
+<!-- properties dialog, calendar creation wizard -->
+<!ENTITY lightning.calendarproperties.email.label "Adresse électronique :">
+
+<!-- iMIP Bar (meeting support) -->
+<!ENTITY lightning.imipbar.description "Ce message contient une invitation.">
+
+<!-- Lightning specific keybindings -->
+<!ENTITY lightning.keys.event.showCalendar.key "C">
+<!ENTITY lightning.keys.event.showTasks.key "D">
+<!ENTITY lightning.keys.event.new "I">
+<!ENTITY lightning.keys.todo.new "D">
+
+<!-- Account Central page -->
+<!ENTITY lightning.acctCentral.newCalendar.label "Créer un nouvel agenda">
+
+<!-- today-pane-specific -->
+<!ENTITY todaypane.showMinimonth.label "Afficher le « Mois réduit »">
+<!ENTITY todaypane.showMinimonth.accesskey "M">
+<!ENTITY todaypane.showMiniday.label "Afficher le « Jour réduit »">
+<!ENTITY todaypane.showMiniday.accesskey "J">
+<!ENTITY todaypane.showNone.label "Ne rien afficher">
+<!ENTITY todaypane.showNone.accesskey "N">
+<!ENTITY todaypane.showTodayPane.label "Afficher le panneau « Aujourd'hui »">
+<!ENTITY todaypane.showTodayPane.accesskey "A">
+<!ENTITY todaypane.statusButton.label "Panneau « Aujourd'hui »">

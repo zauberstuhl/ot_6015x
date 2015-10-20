@@ -1,0 +1,68 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY windowTitle.label "Assistente de Contas">
+<!ENTITY accountWizard.size "width: 60em; height: 38em;">
+<!ENTITY accountSetupInfo.label "Você precisa configurar uma conta de email ou news para receber mensagens.">
+<!ENTITY accountTypeTitle.label "Configurações de conta">
+<!ENTITY accountTypeDesc.label "O Assistente de Contas vai recolher as informações necessárias para configurar sua conta. Se você não souber as informações solicitadas, por favor contate o administrador do sistema ou o provedor de internet.">
+<!ENTITY accountTypeDirections.label "Selecione o tipo de conta que você deseja configurar:">
+<!ENTITY accountTypeMail.label "Conta de email">
+<!ENTITY accountTypeMail.accesskey "e">
+<!ENTITY accountTypeNews.label "Conta de news">
+<!ENTITY accountTypeNews.accesskey "n">
+<!ENTITY identityTitle.label "Identidade">
+<!ENTITY identityDesc.label "Cada conta tem sua própria identidade, que é a informação que identifica você aos destinatários das suas mensagens.">
+<!ENTITY fullnameDesc.label "Forneça o nome que você quer que seja exibido no campo &quot;De&quot; das mensagens que você envia.">
+<!ENTITY fullnameExample.label "(por exemplo, &quot;Marcos Silva&quot;).">
+<!ENTITY fullnameLabel.label "Seu nome:">
+<!ENTITY fullnameLabel.accesskey "N">
+<!ENTITY emailLabel.label "Endereço de email:">
+<!ENTITY emailLabel.accesskey "E">
+<!ENTITY serverTitle.label "Informações do servidor">
+<!ENTITY incomingServerTypeDesc.label "Tipo de servidor utilizado para receber mensagens:">
+<!ENTITY incomingServerNameDesc.label "Forneça o nome do servidor utilizado para receber mensagens (por exemplo, &quot;mail.exemplo.com.br&quot;).">
+<!ENTITY incomingServerLabel.label "Receber mensagens através deste servidor:">
+<!ENTITY incomingServerLabel.accesskey "R">
+<!ENTITY newsServerNameDesc.label "Forneça o nome do servidor de news (NNTP) (por exemplo, &quot;news.example.com.br&quot;).">
+<!ENTITY smtpServerDesc.label "Forneça o nome do servidor utilizado para enviar mensagens (por exemplo &quot;smtp.exemplo.com.br&quot;).">
+<!ENTITY smtpServerLabel.label "Enviar minhas mensagens através deste servidor SMTP:">
+<!ENTITY smtpServerLabel.accesskey "E">
+<!ENTITY newsServerLabel.label "Servidor de news:">
+<!ENTITY newsServerLabel.accesskey "n">
+<!ENTITY imapType.label "IMAP">
+<!ENTITY imapType.accesskey "I">
+<!ENTITY popType.label "POP">
+<!ENTITY popType.accesskey "P">
+<!ENTITY haveSmtp1.prefix "O seu servidor SMTP atual (de enviar mensagens), &quot;">
+<!ENTITY haveSmtp1.suffix '&quot;, será usado. Você pode modificar estas opções em "Configurações de contas" no menu "Editar".'>
+<!ENTITY loginTitle.label "Nomes de usuário">
+<!ENTITY usernameDesc.label "Forneça o nome de usuário dado a você pelo provedor de email">
+<!ENTITY usernameExample.label "(por exemplo, &quot;msilva&quot;).">
+<!ENTITY usernameLabel.label "Nome de usuário:">
+<!ENTITY usernameLabel.accesskey "U">
+<!ENTITY usernameSmtpDesc.label "Forneça o nome de usuário do servidor SMTP (usado para enviar mensagens), dado a você pelo seu provedor de email. Normalmente é o mesmo nome de usuário usado para receber mensagens.">
+<!ENTITY usernameSmtpLabel.label "Nome de usuário do servidor SMTP:">
+<!ENTITY usernameSmtpLabel.accesskey "N">
+<!ENTITY haveSmtp2.prefix "Seu nome de usuário do servidor SMTP (de enviar mensagens) existente, &quot;">
+<!ENTITY haveSmtp2.suffix '&quot;, será usado. Você pode modificar estas opções em "Configurações de contas" no menu "Editar".'>
+<!ENTITY haveSmtp3.prefix "O seu servidor SMTP (de enviar mensagens), &quot;">
+<!ENTITY haveSmtp3.suffix '&quot;, é idêntico ao do servidor usado para receber mensagens. O mesmo nome de usuário será usado para acessá-lo. Você pode modificar estas opções em "Configurações de contas" no menu "Editar".'>
+<!ENTITY accnameTitle.label "Nome da conta">
+<!ENTITY accnameDesc.label "Forneça o nome pelo qual você quer se referir a esta conta (por exemplo, &quot;Conta do trabalho&quot;, &quot;Casa&quot; ou &quot;Conta de news&quot;).">
+<!ENTITY accnameLabel.label "Nome da conta:">
+<!ENTITY accnameLabel.accesskey "T">
+<!ENTITY completionTitle.label "Parabéns!">
+<!ENTITY completionText.label "Verifique se as informações abaixo estão corretas:">
+<!ENTITY serverTypePrefix.label "O servidor para receber mensagens é do tipo:">
+<!ENTITY serverNamePrefix.label "Receber mensagens através deste servidor:">
+<!ENTITY smtpServerNamePrefix.label "Enviar mensagens através deste servidor SMTP:">
+<!ENTITY newsServerNamePrefix.label "Nome do servidor de news (NNTP):">
+<!ENTITY downloadOnLogin.label "Receber as mensagens agora">
+<!ENTITY downloadOnLogin.accesskey "R">
+<!ENTITY deferStorageDesc.label "Desmarque a opção abaixo se quiser receber as mensagens desta conta em um espaço separado, sem misturar com as Pastas Locais.">
+<!ENTITY deferStorage.label "Usar a caixa de entrada global (receber mensagens nas Pastas Locais)">
+<!ENTITY deferStorage.accesskey "U">
+<!ENTITY clickFinish.label "Clique em Concluir para salvar estas configurações e sair do Assistente de Contas.">
+<!ENTITY clickFinish.labelMac "Clique em Concluir para salvar estas configurações e sair do Assistente de Contas.">

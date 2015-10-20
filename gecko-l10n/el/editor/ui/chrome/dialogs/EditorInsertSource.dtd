@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY windowTitle.label "Εισαγωγή HTML">
+<!ENTITY sourceEditField.label "Εισάγετε HTML tags και κείμενο:">
+<!ENTITY example.label "Παράδειγμα:">
+<!ENTITY exampleOpenTag.label "&lt;i&gt;">
+<!ENTITY exampleCloseTag.label "&lt;/i&gt;">
+<!ENTITY exampleText.label "Hello World!">
+<!ENTITY insertButton.label "Εισαγωγή">
+<!ENTITY insertButton.accesskey "σ">

@@ -1,0 +1,133 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the Toolbox strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate key -->
+
+<!ENTITY closeCmd.key  "W">
+
+<!ENTITY toolboxCloseButton.tooltip    "Fermer les outils de développement">
+<!ENTITY toolboxOptionsButton.key      "O">
+<!ENTITY toolboxNextTool.key           "]">
+<!ENTITY toolboxPreviousTool.key       "[">
+
+<!ENTITY toolboxZoomIn.key             "+">
+<!ENTITY toolboxZoomIn.key2            "="> <!-- + is above this key on many keyboards -->
+<!ENTITY toolboxZoomOut.key            "-">
+<!ENTITY toolboxZoomReset.key          "0">
+
+<!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
+  -  the heading of the advanced settings group in the options panel. -->
+<!ENTITY options.context.advancedSettings "Paramètres avancés">
+
+<!-- LOCALIZATION NOTE (options.context.inspector): This is the label for
+  -  the heading of the Inspector group in the options panel. -->
+<!ENTITY options.context.inspector "Inspecteur">
+
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
+  -  dropdown list that controls the default color unit used in the inspector.
+  -  This label is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.label "Unité par défaut pour les couleurs">
+
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
+  -  key for a dropdown list that controls the default color unit used in the
+  -  inspector. This is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.accesskey "U">
+
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
+  -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.hex "hexadécimal">
+
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.hsl): This is used in the
+  -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.hsl "TSL(A)">
+
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.rgb): This is used in the
+  -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.rgb "RVB(A)">
+
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.name): This is used in
+  -  the 'Default color unit' dropdown list and is visible in the options panel.
+  -  -->
+<!ENTITY options.defaultColorUnit.name "noms de couleurs">
+
+<!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
+  -  triggers page refresh footnote under the advanced settings group in the
+  -  options panel and is used for settings that trigger page reload. -->
+<!ENTITY options.context.triggersPageRefresh  "* Pour cette session, recharge la page">
+
+<!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
+  -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
+  -  boolean preference in about:config, in the options panel. -->
+<!ENTITY options.enableChrome.label3    "Activer le débogage du chrome">
+<!ENTITY options.enableChrome.tooltip  "Activer cette option vous permettra d'utiliser divers outils de développement dans le contexte du navigateur">
+
+<!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
+  -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
+  -  boolean preference in about:config, in the options panel. -->
+<!ENTITY options.enableRemote.label3    "Activer le débogage distant">
+<!ENTITY options.enableRemote.tooltip  "Activer cette option permettra de déboguer grâce aux outils de développement des instances distantes de Firefox telles que Firefox OS">
+
+<!-- LOCALIZATION NOTE (options.disableJavaScript.label,
+  -  options.disableJavaScript.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles JavaScript on or off. -->
+<!ENTITY options.disableJavaScript.label     "Désactiver JavaScript *">
+<!ENTITY options.disableJavaScript.tooltip   "Activer cette option désactivera JavaScript pour l'onglet courant. Ce paramètre sera oublié à la fermeture de l'onglet ou de la boîte à outils.">
+
+<!-- LOCALIZATION NOTE (options.disableCache.label,
+  -  options.disableCache.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles the cache on or off. -->
+<!ENTITY options.disableCache.label     "Désactiver le cache *">
+<!ENTITY options.disableCache.tooltip   "Activer cette option désactivera le cache pour l'onglet courant. Ce paramètre sera oublié à la fermeture de l'onglet ou de la boîte à outils.">
+
+<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
+  -  the heading of group of checkboxes corresponding to the default developer
+  -  tools. -->
+<!ENTITY options.selectDefaultTools.label     "Outils de développement par défaut">
+
+<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
+  -  the heading of group of checkboxes corresponding to the developer tools
+  -  added by add-ons. This heading is hidden when there is no developer tool
+  -  installed by add-ons. -->
+<!ENTITY options.selectAdditionalTools.label  "Outils installés via modules complémentaires">
+
+<!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
+  -  the explanation of the * marker on a tool which is currently not supported
+  -  for the target of the toolbox. -->
+<!ENTITY options.toolNotSupported.label  "* Non géré pour la cible actuelle de la boîte à outils">
+
+<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
+  -  the heading of the radiobox corresponding to the theme of the developer
+  -  tools. -->
+<!ENTITY options.selectDevToolsTheme.label   "Choisir le thème des outils de développement :">
+<!ENTITY options.darkTheme.label             "Thème sombre">
+<!ENTITY options.lightTheme.label            "Thème clair">
+
+<!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
+  -  heading of the group of Web Console preferences in the options panel. -->
+<!ENTITY options.webconsole.label            "Console web">
+
+<!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
+  -  label for the checkbox that toggles persistent logs in the Web Console,
+  -  i.e. devtools.webconsole.persistlog a boolean preference in about:config,
+  -  in the options panel. -->
+<!ENTITY options.enablePersistentLogging.label    "Activer les journaux persistants">
+<!ENTITY options.enablePersistentLogging.tooltip  "Si vous activez cette option, la console web ne videra pas les sorties à chaque fois que vous changez de page">
+
+<!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
+   - label for the checkbox that toggles timestamps in the Web Console -->
+<!ENTITY options.timestampMessages.label      "Activer l'horodatage">
+<!ENTITY options.timestampMessages.tooltip    "Si vous activez cette option, les commandes et les sorties dans la console web afficheront l'horodatage">
+
+<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
+  -  heading of the group of JavaScript Profiler preferences in the options
+  -  panel. -->
+<!ENTITY options.profiler.label            "Profileur JavaScript">
+
+<!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
+  -  label for the checkbox that toggles the display of the platform data in the,
+  -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
+  -  in about:config, in the options panel. -->
+<!ENTITY options.showPlatformData.label    "Afficher les données de la plate-forme Gecko">
+<!ENTITY options.showPlatformData.tooltip  "Si vous activez cette option, les rapports du profileur JavaScript incluront les symboles de la plate-forme Gecko">

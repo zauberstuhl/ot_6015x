@@ -1,0 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  blockPopups.label           "Блокирај искачуће прозоре">
+<!ENTITY  blockPopups.accesskey       "Б">
+<!ENTITY  popupExceptions.label       "Изузеци">
+<!ENTITY  popupExceptions.accesskey   "И">
+
+<!ENTITY  fontsAndColors.label        "Писма и боје">
+
+<!ENTITY  defaultFont.label           "Изворно писмо:">
+<!ENTITY  defaultFont.accesskey       "И">
+<!ENTITY  defaultSize.label           "Величина:">
+<!ENTITY  defaultSize.accesskey       "В">
+
+<!ENTITY  advancedFonts.label         "Писма…">
+<!ENTITY  advancedFonts.accesskey     "П">
+
+<!ENTITY  colors.label                "Боје…">
+<!ENTITY  colors.accesskey            "Б">
+
+
+<!ENTITY languages.label              "Језици">
+<!ENTITY chooseLanguage.label         "Изаберите омиљени језик за приказ страна">
+<!ENTITY chooseButton.label           "Избор…">
+<!ENTITY chooseButton.accesskey       "И">

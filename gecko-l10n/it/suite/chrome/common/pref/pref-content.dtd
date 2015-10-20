@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pref.content.title "Contenuto">
+<!ENTITY pref.content.description "Queste impostazioni influenzano il modo in cui appare il contenuto dei siti web e dei messaggi in &brandShortName;. ">
+<!ENTITY siteIcons.label "Icone sito web">
+<!ENTITY useSiteIcons.label "Mostra icone sito web">
+<!ENTITY useSiteIcons.accesskey "M">
+<!ENTITY useFavIcons.label "Cerca accuratamente l'icona del sito web quando la pagina non ne definisce una">
+<!ENTITY useFavIcons.accesskey "C">
+<!ENTITY enableAutomaticImageResizing.label "Ridimensiona immagini grandi per mostrarle nella finestra del browser">
+<!ENTITY enableAutomaticImageResizing.accesskey "R">
+<!ENTITY useSmoothScroll.label "Utilizza lo scorrimento continuo">
+<!ENTITY useSmoothScroll.accesskey "U">
+<!ENTITY allowHWAccel.label "Utilizza accelerazione hardware se disponibile">
+<!ENTITY allowHWAccel.accesskey "t">
+<!ENTITY textZoomOnly.label "Fai lo zoom del solo testo invece di intere pagine">
+<!ENTITY textZoomOnly.accesskey "F">
+<!ENTITY blockAutoRefresh.label "Avvisami quando i siti web provano a reindirizzare o ricaricare la pagina">
+<!ENTITY blockAutoRefresh.accesskey "v">
+<!ENTITY siteSpecific.label "Ricorda livello di zoom per ogni sito">
+<!ENTITY siteSpecific.accesskey "R">

@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pref.mainbox.label "Configuración general">
+<!ENTITY pref.dateformat.label "Formato de texto de fecha:">
+<!ENTITY pref.dateformat.accesskey "F">
+<!ENTITY pref.dateformat.long "Largo">
+<!ENTITY pref.dateformat.short "Corto">
+<!ENTITY pref.defaultlength.label "Duración predeterminada de un evento:">
+<!ENTITY pref.defaultlength.accesskey "D">
+<!ENTITY pref.defaultsnoozelength.label "Duración predeterminada de retardo:">
+<!ENTITY pref.defaultsnoozelength.accesskey "u">
+<!ENTITY pref.accessibility.label "Accesibilidad">
+<!ENTITY pref.systemcolors.label "Optimizar colores para accesibilidad">
+<!ENTITY pref.systemcolors.accesskey "O">

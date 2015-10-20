@@ -1,0 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pref.locationBar.title "Pasek adresu">
+
+<!ENTITY autoComplete.label "Automatyczne uzupełnianie">
+<!ENTITY enableAutoComplete.label "Automatycznie uzupełniaj na podstawie historii przeglądania">
+<!ENTITY enableAutoComplete.accesskey "A">
+<!ENTITY autoCompleteAutoFill.label "Automatycznie uzupełniaj najodpowiedniejszą propozycją">
+<!ENTITY autoCompleteAutoFill.accesskey "u">
+<!ENTITY autoCompleteShowPopup.label "Pokazuj listę pasujących wyników">
+<!ENTITY autoCompleteShowPopup.accesskey "P">
+<!ENTITY autoCompleteMatchOnlyTyped.label "Uwzględniaj tylko adresy, które zostały wpisane ręcznie">
+<!ENTITY autoCompleteMatchOnlyTyped.accesskey "r">
+<!ENTITY autoCompleteMatchOnlyURLs.label "Wyłącznie w adresach (bez tytułów stron)">
+<!ENTITY autoCompleteMatchOnlyURLs.accesskey "a">
+<!ENTITY autoCompleteMatch.label "Szukaj">
+<!ENTITY autoCompleteMatch.accesskey "S">
+<!ENTITY autoCompleteMatchAnywhere "Gdziekolwiek w adresie bądź tytule">
+<!ENTITY autoCompleteMatchWordsFirst "Gdziekolwiek, ale preferuj granice słów">
+<!ENTITY autoCompleteMatchWords "Wyłącznie na granicach słów">
+<!ENTITY autoCompleteMatchStart "Wyłącznie na początku adresu bądź tytułu">
+
+<!ENTITY formatting.label "Formatowanie">
+<!ENTITY domainFormatting.label "Wyróżniaj domeny witryn i serwerów FTP">
+<!ENTITY domainFormatting.accesskey "W">
+
+<!ENTITY searchEngine.label "Wyszukiwarka internetowa">
+<!ENTITY showSearchEngine.label "Wyświetlaj domyślną wyszukiwarkę internetową">
+<!ENTITY showSearchEngine.accesskey "e">
+
+<!ENTITY unknownLocations.label "Nieznane adresy">
+<!ENTITY domainGuessing.label "Automatycznie dodawaj „www.” oraz „.com” do wprowadzonego adresu, jeżeli odnalezienie witryny nie jest możliwe">
+<!ENTITY domainGuessing.accesskey "d">
+<!ENTITY keywords.label "Wykonuj wyszukiwanie w sieci, gdy wpisany tekst nie jest adresem internetowym">
+<!ENTITY keywords.accesskey "y">

@@ -1,0 +1,46 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY editorWindow.titlemodifier "Компоновщик">
+<!ENTITY editorWindow.titlemodifiermenuseparator " - ">
+<!ENTITY compositionToolbar.tooltip "Панель компоновки">
+<!ENTITY previewToolbarCmd.label "Просмотр">
+<!ENTITY previewToolbarCmd.tooltip "Загрузить эту страницу в браузер">
+<!ENTITY exportToTextCmd.label "Экспорт в текстовый формат…">
+<!ENTITY exportToTextCmd.accesskey "т">
+<!ENTITY previewCmd.label "Просмотр страницы">
+<!ENTITY previewCmd.accesskey "м">
+<!ENTITY sendPageCmd.label "Отправить страницу…">
+<!ENTITY sendPageCmd.accesskey "т">
+<!ENTITY compositionToolbarCmd.label "Панель компоновки">
+<!ENTITY compositionToolbarCmd.accesskey "к">
+<!ENTITY formattingToolbarCmd.label "Панель форматирования">
+<!ENTITY formattingToolbarCmd.accesskey "ф">
+<!ENTITY editmodeToolbarCmd.label "Панель режимов редактирования">
+<!ENTITY editmodeToolbarCmd.accesskey "р">
+<!ENTITY formatMenu.label "Формат">
+<!ENTITY formatMenu.accesskey "м">
+<!ENTITY grid.label "Сетка">
+<!ENTITY grid.accesskey "е">
+<!ENTITY pageProperties.label "Заголовок и свойства страницы…">
+<!ENTITY pageProperties.accesskey "г">
+<!ENTITY validateCmd.label "Проверить HTML">
+<!ENTITY validateCmd.accesskey "в">
+<!ENTITY NormalModeTab.label "Обычный">
+<!ENTITY NormalMode.label "Обычный режим редактирования">
+<!ENTITY NormalMode.accesskey "О">
+<!ENTITY NormalMode.tooltip "Показываются границы таблиц и имена якорей">
+<!ENTITY AllTagsModeTab.label "HTML-теги">
+<!ENTITY AllTagsMode.label "HTML-теги">
+<!ENTITY AllTagsMode.accesskey "т">
+<!ENTITY AllTagsMode.tooltip "Показываются значки для всех HTML-тегов">
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label "Исходный код">
+<!ENTITY HTMLSourceMode.label "Исходный код HTML">
+<!ENTITY HTMLSourceMode.accesskey "к">
+<!ENTITY HTMLSourceMode.tooltip "Редактировать исходный код HTML">
+<!ENTITY PreviewModeTab.label "Предварительный просмотр">
+<!ENTITY PreviewMode.label "Предварительный просмотр">
+<!ENTITY PreviewMode.accesskey "р">
+<!ENTITY PreviewMode.tooltip "Показывать страницу как в браузере">

@@ -1,0 +1,88 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY tracking.label                 "Праћење">
+
+<!ENTITY dntTrackingNopref.label        "Do not tell sites anything about my tracking preferences.">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label       "Tell sites that I do not want to be tracked.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "Tell sites that I want to be tracked.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "Сазнајте више">
+
+<!ENTITY  history.label                 "Историјат">
+
+<!ENTITY  locationBar.label             "Трака са местом">
+
+<!ENTITY  locbar.pre.label              "При употреби адресне линије, предложи:">
+<!ENTITY  locbar.pre.accessKey          "П">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Историјат и забелешке">
+<!ENTITY  locbar.history.label          "Историјат">
+<!ENTITY  locbar.bookmarks.label        "Забелешке">
+<!ENTITY  locbar.nothing.label          "Ништа">
+
+<!ENTITY  acceptCookies.label           "Прихватај колачиће са сајтова">
+<!ENTITY  acceptCookies.accesskey       "П">
+
+<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.always.label   "Always">
+<!ENTITY  acceptThirdParty.never.label    "Never">
+<!ENTITY  acceptThirdParty.visited.label  "From visited">
+
+<!ENTITY  keepUntil.label               "Рок за чување:">
+<!ENTITY  keepUntil.accesskey           "Р">
+
+<!ENTITY  expire.label                  "не истекну">
+<!ENTITY  close.label                   "не затворим &brandShortName;">
+<!ENTITY  askEachTime.label             "увек ме питај">
+
+<!ENTITY  cookieExceptions.label        "Изузеци">
+<!ENTITY  cookieExceptions.accesskey    "И">
+
+<!ENTITY  showCookies.label             "Прикажи колачиће…">
+<!ENTITY  showCookies.accesskey         "П">
+
+<!ENTITY  historyHeader.pre.label          "Програм &brandShortName; ће:">
+<!ENTITY  historyHeader.pre.accesskey      "П">
+<!ENTITY  historyHeader.remember.label     "Бележи историјат">
+<!ENTITY  historyHeader.dontremember.label "Никада не бележи историјат">
+<!ENTITY  historyHeader.custom.label       "Користи посебна подешавања за историјат">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  rememberDescription.label      "&brandShortName; ће запамтити историјат читања, пријема, формулара и претраге, и чуваће колачиће са веб сајтова које посећујете.">
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY  rememberActions.pre.label           "Можта желите да ">
+<!ENTITY  rememberActions.clearHistory.label  "очистите историјат">
+<!ENTITY  rememberActions.middle.label        ", или ">
+<!ENTITY  rememberActions.removeCookies.label "уклоните поједине колачиће">
+<!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  dontrememberDescription.label  "Програм &brandShortName; ће користити иста подршавања као за поверљиво читање, и неће памтити историјат читања веб страница.">
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY  dontrememberActions.pre.label          "Можда такође желите да ">
+<!ENTITY  dontrememberActions.clearHistory.label "очистите тренутни историјат">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  privateBrowsingPermanent2.label "Увек користи поверљиво читање">
+<!ENTITY  privateBrowsingPermanent2.accesskey "в">
+
+<!ENTITY  rememberHistory2.label      "Запамти мој историјат читања и пријема">
+<!ENTITY  rememberHistory2.accesskey  "З">
+
+<!ENTITY  rememberSearchForm.label       "Запамти историјат образаца и претраге">
+<!ENTITY  rememberSearchForm.accesskey   "f">
+
+<!ENTITY  clearOnClose.label             "Очисти историјат када се програм &brandShortName; затвори">
+<!ENTITY  clearOnClose.accesskey         "О">
+
+<!ENTITY  clearOnCloseSettings.label     "Подешавања…">
+<!ENTITY  clearOnCloseSettings.accesskey "П">

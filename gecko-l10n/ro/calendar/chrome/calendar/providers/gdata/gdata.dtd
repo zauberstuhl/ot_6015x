@@ -1,0 +1,30 @@
+<!--
+# Translator(s):
+#
+# Laudatti <Laudatti@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY gdata-provider.label "Calendar Google">
+
+<!ENTITY gdata.privacy.default.label "Implicit de la Google">
+<!ENTITY gdata.privacy.default.accesskey "d">
+
+<!ENTITY gdata.migration.title "Migrare calendare disponibile numai pentru citire">
+<!ENTITY gdata.migration.description "Furnizorul de date pentru calendarul Google a detectat că aveți calendare existente care pot accesa calendarul Google doar pentru a citi din el. Dacă doriți să actualizați aceste calendare pentru a se putea scrie în ele, selectați-le mai jos">
+<!ENTITY gdata.migration.upgrade.label "Actualizare">
+<!ENTITY gdata.migration.upgrade.accesskey "u">
+<!ENTITY gdata.migration.showagain.label "Verifică întotdeauna ">
+
+<!ENTITY gdata.reminder.action.sms.label "Trimite un mesaj text">
+

@@ -1,0 +1,63 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+<!-- Tools menu -->
+
+
+<!ENTITY lightning.preferencesLabel "Календар">
+<!-- New menu popup in File menu -->
+
+<!ENTITY lightning.menupopup.new.event.label    "Събитие…">
+<!ENTITY lightning.menupopup.new.event.accesskey "С">
+<!ENTITY lightning.menupopup.new.task.label     "Задача…">
+<!ENTITY lightning.menupopup.new.task.accesskey "З">
+<!ENTITY lightning.menupopup.new.calendar.label "Календар…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "К">
+<!-- Open menu popup in File menu -->
+
+<!ENTITY lightning.menupopup.open.label               "Отваряне">
+<!ENTITY lightning.menupopup.open.accesskey           "О">
+<!ENTITY lightning.menupopup.open.message.label       "Запазено писмо…">
+<!ENTITY lightning.menupopup.open.message.accesskey   "п">
+<!ENTITY lightning.menupopup.open.calendar.label      "Календар файл…">
+<!ENTITY lightning.menupopup.open.calendar.accesskey  "л">
+<!-- View Menu -->
+
+<!ENTITY lightning.menu.view.calendar.label            "Календар">
+<!ENTITY lightning.menu.view.calendar.accesskey        "К">
+<!ENTITY lightning.menu.view.tasks.label               "Задачи">
+<!ENTITY lightning.menu.view.tasks.accesskey           "д">
+<!-- Events and Tasks menu -->
+
+<!ENTITY lightning.menu.eventtask.label                "Събития и задачи">
+<!ENTITY lightning.menu.eventtask.accesskey            "б">
+<!-- properties dialog, calendar creation wizard -->
+
+<!ENTITY lightning.calendarproperties.email.label               "Мейл:">
+<!-- iMIP Bar (meeting support) -->
+
+<!ENTITY lightning.imipbar.description "Това писмо съдържа покана за събитие.">
+<!-- Lightning specific keybindings -->
+
+<!ENTITY lightning.keys.event.showCalendar.key "C">
+<!ENTITY lightning.keys.event.showTasks.key "D">
+<!ENTITY lightning.keys.event.new "I">
+<!ENTITY lightning.keys.todo.new "D">
+<!-- Account Central page -->
+
+<!ENTITY lightning.acctCentral.newCalendar.label "Създаване на нов календар">
+<!-- today-pane-specific -->
+
+<!ENTITY todaypane.showMinimonth.label "Показване на мини-месец">
+<!ENTITY todaypane.showMinimonth.accesskey "м">
+<!ENTITY todaypane.showMiniday.label "Показване на мини-ден">
+<!ENTITY todaypane.showMiniday.accesskey  "д">
+<!ENTITY todaypane.showNone.label "Без показване">
+<!ENTITY todaypane.showNone.accesskey "в">
+<!ENTITY todaypane.showTodayPane.label "Показване на дневния плот">
+<!ENTITY todaypane.showTodayPane.accesskey "к">
+<!ENTITY todaypane.statusButton.label "Дневен плот">

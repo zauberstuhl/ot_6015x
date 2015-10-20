@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!ENTITY pref.mainbox.label "Основные настройки" >
+<!ENTITY pref.dateformat.label "Формат даты:" >
+<!ENTITY pref.dateformat.accesskey "Ф">
+<!ENTITY pref.dateformat.long "Полный" >
+<!ENTITY pref.dateformat.short "Краткий"  >
+<!ENTITY pref.defaultlength.label "По умолчанию продолжительность события:" >
+<!ENTITY pref.defaultlength.accesskey "П">
+<!ENTITY pref.defaultsnoozelength.label "По умолчанию откладывать оповещение на:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "о">
+
+<!ENTITY pref.accessibility.label "Общедоступность" >
+<!ENTITY pref.systemcolors.label "Оптимизировать цвета для людей с ограниченными возможностями" >
+<!ENTITY pref.systemcolors.accesskey "п">

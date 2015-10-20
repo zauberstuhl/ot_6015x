@@ -1,0 +1,45 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY prefWindow.title "Preferencje">
+<!ENTITY categoryHeader "Kategoria">
+<!ENTITY appear.label "Wygląd">
+<!ENTITY content.label "Zawartość">
+<!ENTITY fonts.label "Czcionki">
+<!ENTITY colors.label "Kolory">
+<!ENTITY navigator.label "Przeglądarka">
+<!ENTITY history.label "Historia">
+<!ENTITY languages.label "Języki">
+<!ENTITY applications.label "Aplikacje">
+<!ENTITY locationBar.label "Pasek adresu">
+<!ENTITY tabWindows.label "Karty">
+<!ENTITY links.label "Odnośniki">
+<!ENTITY offline.label "Tryb offline">
+<!ENTITY security.label "Prywatność i zabezpieczenia">
+<!ENTITY privatedata.label "Prywatne dane">
+<!ENTITY cookies.label "Ciasteczka">
+<!ENTITY images.label "Obrazki">
+<!ENTITY popups.label "Wyskakujące okna">
+<!ENTITY passwords.label "Hasła">
+<!ENTITY masterpass.label "Hasło główne">
+<!ENTITY ssl.label "SSL">
+<!ENTITY certs.label "Certyfikaty">
+<!ENTITY sync.label "Sync">
+<!ENTITY advance.label "Zaawansowane">
+<!ENTITY down.label "Pobierz">
+<!ENTITY cache.label "Pamięć podręczna">
+<!ENTITY offlineApps.label "Aplikacje trybu offline">
+<!ENTITY proxies.label "Serwery proxy">
+<!ENTITY httpnetworking.label "Protokół HTTP">
+<!ENTITY smart.label "Instalacja">
+<!ENTITY download.label "Pobieranie plików">
+<!ENTITY keynav.label "Nawigacja">
+<!ENTITY findAsYouType.label "Znajdź wprowadzając">
+<!ENTITY search.label "Wyszukiwanie">
+<!ENTITY policies.label "Zasady zabezpieczeń">
+<!ENTITY mousewheel.label "Przewijanie">
+<!ENTITY scriptsAndWindows.label "Skrypty i wtyczki">
+<!ENTITY spellingPane.label "Pisownia">
+
+<!ENTITY focusSearch.key "f">

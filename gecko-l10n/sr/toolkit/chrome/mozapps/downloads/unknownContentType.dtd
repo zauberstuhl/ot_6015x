@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  intro2.label                "You have chosen to open:">
+<!ENTITY  from.label                  "шаље:">
+<!ENTITY  actionQuestion.label        "Како да &brandShortName; обради ову датотеку?">
+
+<!ENTITY  openWith.label              "Отвори помоћу">
+<!ENTITY  openWith.accesskey          "О">
+<!ENTITY  other.label                 "Друго…">
+
+<!ENTITY  saveFile.label              "Сними датотеку">
+<!ENTITY  saveFile.accesskey          "С">
+
+<!ENTITY  rememberChoice.label        "Користи овај избор за све датотеке овог типа.">
+<!ENTITY  rememberChoice.accesskey    "К">
+
+<!ENTITY  whichIs.label              "which is:">
+
+<!ENTITY  chooseHandlerMac.label      "Избор…">
+<!ENTITY  chooseHandlerMac.accesskey  "И">
+<!ENTITY  chooseHandler.label         "Преглед…">
+<!ENTITY  chooseHandler.accesskey     "П">
+
+<!ENTITY  unknownPromptText.label     "Да ли желите да сачувате ову датотеку?">

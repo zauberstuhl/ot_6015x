@@ -1,0 +1,30 @@
+<!ENTITY linkToolbar.label "Navegação do site">
+<!ENTITY linkToolbar.accesskey "n">
+<!ENTITY linkToolbarAlways.label "Exibir">
+<!ENTITY linkToolbarAlways.accesskey "X">
+<!ENTITY linkToolbarAsNeeded.label "Exibir se necessário">
+<!ENTITY linkToolbarAsNeeded.accesskey "E">
+<!ENTITY linkToolbarNever.label "Ocultar">
+<!ENTITY linkToolbarNever.accesskey "O">
+<!ENTITY topButton.label "Início">
+<!ENTITY upButton.label "Acima">
+<!ENTITY firstButton.label "Primeiro">
+<!ENTITY prevButton.label "Anterior">
+<!ENTITY nextButton.label "Próximo">
+<!ENTITY lastButton.label "Último">
+<!ENTITY documentButton.label "Documento">
+<!ENTITY tocButton.label "Sumário">
+<!ENTITY chapterButton.label "Capítulos">
+<!ENTITY sectionButton.label "Seções">
+<!ENTITY subSectionButton.label "Subseções">
+<!ENTITY appendixButton.label "Apêndices">
+<!ENTITY glossaryButton.label "Glossário">
+<!ENTITY indexButton.label "Índice">
+<!ENTITY moreButton.label "Mais">
+<!ENTITY helpButton.label "Ajuda">
+<!ENTITY searchButton.label "Pesquisar">
+<!ENTITY authorButton.label "Autor(es)">
+<!ENTITY copyrightButton.label "Direitos autorais">
+<!ENTITY bookmarkButton.label "Marcadores">
+<!ENTITY alternateButton.label "Outras versões">
+<!ENTITY feedButton.label "Se inscrever">

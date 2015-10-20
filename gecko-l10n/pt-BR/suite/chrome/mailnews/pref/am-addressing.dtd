@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY addressing.label "Editar e endereçar">
+<!ENTITY addressingGroupTitle.label "Endereçar">
+<!ENTITY autocompleteToMyDomain.label "Adicionar automaticamente meu domínio aos endereços">
+<!ENTITY autocompleteToMyDomain.accesskey "d">
+<!ENTITY addressingText.label "Ao procurar endereços:">
+<!ENTITY useGlobal.label "Usar meu servidor LDAP global para esta conta">
+<!ENTITY useGlobal.accesskey "P">
+<!ENTITY editDirectories.label "Editar diretórios...">
+<!ENTITY editDirectories.accesskey "E">
+<!ENTITY directories.label "Usar um servidor LDAP diferente:">
+<!ENTITY directories.accesskey "l">
+<!ENTITY compositionGroupTitle.label "Editar">
+<!ENTITY useHtml.label "Usar formatação HTML para editar mensagens">
+<!ENTITY useHtml.accesskey "H">
+<!ENTITY autoQuote.label "Ao responder, citar a mensagem original">
+<!ENTITY autoQuote.accesskey "a">
+<!ENTITY then.label "E então:">
+<!ENTITY then.accesskey "n">
+<!ENTITY aboveQuote.label "Posicionar a resposta acima da mensagem">
+<!ENTITY belowQuote.label "Posicionar a resposta abaixo da mensagem">
+<!ENTITY selectAndQuote.label "Selecionar a mensagem citada">
+<!ENTITY place.label "Inserir a assinatura no:">
+<!ENTITY place.accesskey "i">
+<!ENTITY belowText.label "Fim da mensagem (recomendado)">
+<!ENTITY aboveText.label "Início da mensagem">
+<!ENTITY directoriesNone.label     "Nenhum">

@@ -1,0 +1,35 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# turcan <nicturcan@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# raulmalea <raul.malea@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeModeDialog.title         "&brandShortName; - Modul sigur">
+<!ENTITY window.maxWidth              "400">
+
+<!ENTITY startSafeMode.label          "Pornește în modul sigur">
+<!ENTITY resetProfile.label           "Resetează &brandShortName;">
+
+<!ENTITY safeModeDescription3.label   "Modul sigur este un mod special în care &brandShortName; poate fi folosit să rezolvați unele probleme.">
+<!ENTITY safeModeDescription4.label   "Suplimentele și setările suplimentare vor fi temporar dezactivate.">
+
+<!ENTITY resetProfileInstead.label    "Puteți și să resetați &brandShortName; dacă vreți să începeți de la zero.">
+
+<!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
+<!ENTITY autoSafeModeDescription2.label "&brandShortName; s-a închis în mod neașteptat la pornire. Aceasta ar putea fi cauzată de probleme a unor suplimente sau de alte cauze. Puteți încerca să rezolvați problema prin resetarea &brandShortName; la starea sa implicită sau să depanați problema pornind în modul sigur.">
+<!ENTITY resetProfileFooter.label       "Orice altceva va fi resetat la setările implicite.">
+<!ENTITY safeModeInstead.label          "Dacă nu doriți acest lucru, puteți continua în modul de siguranță pentru a face propria depanare cu suplimentele și setările personalizate dezactivate temporar.">
+

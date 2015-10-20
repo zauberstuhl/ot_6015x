@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.accept.label "Beni buradan kurtar!">
+<!ENTITY safeb.palm.decline.label "Bu uyarıyı yok say">
+<!ENTITY safeb.palm.notforgery.label2 "Bu sahtekârlık değil…">
+<!ENTITY safeb.palm.reportPage.label "Bu site neden engellendi?">
+
+<!ENTITY safeb.blocked.malwarePage.title "Saldırgan olarak bildirilmiş site!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> konumundaki sitenin saldırı sitesi olduğu bildirildi ve açılması güvenlik tercihlerinize dayanılarak engellendi.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Saldırı sitesi olarak tanımlanan siteler özel bilgilerinizi çalan, bilgisayarınızı başkalarına saldırı amacıyla kullanan ya da sisteminize zarar veren programları kurmaya çalışan sitelerdir.</p><p>Bazı saldırı siteleri zararlı yazılımları bilerek dağıtırken, çoğu site, sahibinin bilgisi ve izni dışında bu amaçla kullanılır.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title "Sahtekâr olarak bildirilmiş site!">
+<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc "<span id='phishing_sitename'/> konumundaki sayfanın sahtekârlık amaçlı olduğu bildirilmiştir. Sayfa, güvenlik tercihlerinize dayanılarak engellendi.">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Bu tür sahtekârlık girişimleriyle güvenebileceğiniz kuruluşlar taklit edilerek sizden kişisel veya mali bilgileriniz sızdırılmaya çalışılır.</p><p>Bu sayfada gerçekleşecek herhangi bir bilgi girişi, kimlik hırsızlığı ya da başka tür dolandırıcılıkla son bulabilir.</p>">

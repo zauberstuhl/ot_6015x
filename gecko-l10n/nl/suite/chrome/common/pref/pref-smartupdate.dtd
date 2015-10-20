@@ -1,0 +1,33 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
+<!ENTITY pref.smartUpdate.title               "Software-installatie">
+<!ENTITY addOnsTitle.label                    "Add-ons">
+<!ENTITY addOnsAllow.label                    "Websites toestaan om add-ons en updates te installeren">
+<!ENTITY addOnsAllow.accesskey                "e">
+<!ENTITY allowedSitesLink.label               "Websites met toestemming">
+<!ENTITY autoAddOnsUpdates.label              "Automatisch controleren op updates">
+<!ENTITY autoAddOnsUpdates.accesskey          "o">
+<!ENTITY daily.label                          "dagelijks">
+<!ENTITY addOnsDaily.accesskey                "d">
+<!ENTITY weekly.label                         "wekelijks">
+<!ENTITY addOnsWeekly.accesskey               "k">
+<!ENTITY addOnsModeAutomatic.label            "Automatisch de updates downloaden en installeren">
+<!ENTITY addOnsModeAutomatic.accesskey        "m">
+<!ENTITY enablePersonalized.label             "Add-on aanbevelingen personaliseren">
+<!ENTITY enablePersonalized.accesskey         "p">
+<!ENTITY addonManagerLink.label               "Add-ons beheren">
+
+<!ENTITY appUpdates.caption                   "&brandShortName;">
+<!ENTITY autoAppUpdates.label                 "Automatisch controleren op updates">
+<!ENTITY autoAppUpdates.accesskey             "t">
+<!ENTITY appDaily.accesskey                   "a">
+<!ENTITY appWeekly.accesskey                  "e">
+<!ENTITY appModeAutomatic.label               "Automatisch de update downloaden en installeren">
+<!ENTITY appModeAutomatic.accesskey           "u">
+<!ENTITY appModeAutoAddonWarn.label           "Mij waarschuwen als dit een van mijn add-ons zal uitschakelen">
+<!ENTITY appModeAutoAddonWarn.accesskey       "w">
+<!ENTITY updateHistoryButton.label            "Updategeschiedenis tonen…">
+<!ENTITY updateHistoryButton.accesskey        "U">

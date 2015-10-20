@@ -1,0 +1,31 @@
+<!ENTITY aboutDialog.title "Acerca de &brandFullName;">
+<!ENTITY community.start2 "&brandShortName; está diseñado por ">
+<!ENTITY community.mozillaLink "&vendorShortName;">
+<!ENTITY community.middle2 ", una ">
+<!ENTITY community.creditsLink "comunidad global">
+<!ENTITY community.end2 " que trabaja unida para hacer Internet mejor. Creemos que Internet debería ser abierta, pública y accesible a todo el mundo sin restricción alguna.">
+<!ENTITY contribute.start "¿Suena interesante? ">
+<!ENTITY contribute.getInvolvedLink "¡Involúcrese!">
+<!ENTITY contribute.end "">
+<!ENTITY bottomLinks.license "Información de licencia">
+<!ENTITY bottomLinks.rights "Derechos del usuario final">
+<!ENTITY bottomLinks.privacy "Política de privacidad">
+<!ENTITY update.checkingForUpdates "Buscando actualizaciones…">
+<!ENTITY update.checkingAddonCompat "Comprobando compatibilidad de complementos…">
+<!ENTITY update.noUpdatesFound "&brandShortName; está actualizado">
+<!ENTITY update.adminDisabled "Actualizaciones desactivada por el administrador de su sistema">
+<!ENTITY update.failed.start "Actualización fallida. ">
+<!ENTITY update.failed.linkText "Descargar la última versión">
+<!ENTITY update.failed.end "">
+<!ENTITY update.manual.start "Descargar la ">
+<!ENTITY update.manual.linkText "última versión">
+<!ENTITY update.manual.end "">
+<!ENTITY update.unsupported.start "No puede efectuar más actualizaciones en este sistema. ">
+<!ENTITY update.unsupported.linkText "Saber más">
+<!ENTITY update.unsupported.end "">
+<!ENTITY update.downloading.start "Descargando actualización — ">
+<!ENTITY update.downloading.end "">
+<!ENTITY update.applying "Aplicando actualización…">
+<!ENTITY channel.description.start "Está actualmente en el canal de actualizaciones ">
+<!ENTITY channel.description.end ". ">
+<!ENTITY cmdCloseMac.commandKey "w">

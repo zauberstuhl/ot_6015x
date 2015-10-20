@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pref.character.encoding.title   "Tekenset">
+<!ENTITY messageDisplay.caption          "Berichtenweergave">
+<!ENTITY viewFallbackCharset.label       "Terugval tekenset:">
+<!ENTITY viewFallbackCharset.accesskey   "t">
+<!ENTITY viewFallbackCharset.desc        "Deze tekenset wordt gebruikt voor legacy-inhoud die geen eigen tekeset kan declareren.)">
+
+<!ENTITY composingMessages.caption       "Berichten opstellen">
+<!ENTITY useMIME.label                   "‘Quoted printable’ MIME-codering gebruiken voor berichten die 8-bits tekens bevatten">
+<!ENTITY useMIME.accesskey               "o">
+<!ENTITY sendDefaultCharset.label        "Standaard tekenset:">
+<!ENTITY sendDefaultCharset.accesskey    "t">
+<!ENTITY replyInDefaultCharset2.label    "Wanneer mogelijk, deze standaard tekenset gebruiken in antwoorden. (Wanneer niet aangevinkt, gebruiken alleen nieuwe berichten deze standaardwaarde.)">
+<!ENTITY replyInDefaultCharset2.accesskey "W">

@@ -1,0 +1,72 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY messageStorage.label "Хранилище сообщений">
+<!ENTITY securitySettings.label "Настройки защиты">
+<!ENTITY serverSettings.label "Параметры сервера">
+<!ENTITY serverType.label "Тип сервера:">
+<!ENTITY serverName.label "Имя сервера:">
+<!ENTITY serverName.accesskey "И">
+<!ENTITY userName.label "Имя пользователя:">
+<!ENTITY userName.accesskey "м">
+<!ENTITY port.label "Порт:">
+<!ENTITY port.accesskey "р">
+<!ENTITY serverPortDefault.label "По умолчанию:">
+<!ENTITY biffStart.label "Проверять наличие новых сообщений каждые ">
+<!ENTITY biffStart.accesskey "к">
+<!ENTITY biffEnd.label "минут">
+<!ENTITY connectionSecurity.label "Защита соединения:">
+<!ENTITY connectionSecurity.accesskey "щ">
+<!ENTITY connectionSecurityType-0.label "Нет">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, если доступно">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
+<!ENTITY authMethod.label "Метод аутентификации:">
+<!ENTITY authMethod.accesskey "е">
+<!ENTITY leaveOnServer.label "Оставлять копии сообщений на сервере">
+<!ENTITY leaveOnServer.accesskey "т">
+<!ENTITY headersOnly.label "Загружать только заголовки сообщений">
+<!ENTITY headersOnly.accesskey "з">
+<!ENTITY deleteByAgeFromServer.label "Не более">
+<!ENTITY deleteByAgeFromServer.accesskey "е">
+<!ENTITY daysEnd.label "дней">
+<!ENTITY deleteOnServer2.label "Пока я не удалю их">
+<!ENTITY deleteOnServer2.accesskey "у">
+<!ENTITY downloadOnBiff.label "Автоматически загружать новые сообщения">
+<!ENTITY downloadOnBiff.accesskey "А">
+<!ENTITY username.label "Ваше регистрационное имя">
+<!ENTITY deleteMessagePrefix.label "При удалении сообщения:">
+<!ENTITY modelMoveToTrash.label "Переместить его в папку:">
+<!ENTITY modelMoveToTrash.accesskey "п">
+<!ENTITY modelMarkDeleted.label "Отметить его как удалённое">
+<!ENTITY modelMarkDeleted.accesskey "у">
+<!ENTITY modelDeleteImmediately.label "Удалить его сразу">
+<!ENTITY modelDeleteImmediately.accesskey "р">
+<!ENTITY expungeOnExit.label "Сжимать при выходе папку «Входящие»">
+<!ENTITY expungeOnExit.accesskey "ж">
+<!ENTITY emptyTrashOnExit.label "Очищать при выходе папку «Удалённые»">
+<!ENTITY emptyTrashOnExit.accesskey "О">
+<!ENTITY loginAtStartup.label "Проверять почту при запуске">
+<!ENTITY loginAtStartup.accesskey "П">
+<!ENTITY maxMessagesStart.label "Спрашивать перед загрузкой более чем">
+<!ENTITY maxMessagesStart.accesskey "б">
+<!ENTITY maxMessagesEnd.label "сообщений">
+<!ENTITY alwaysAuthenticate.label "Всегда проводить аутентификацию при подключении к этому серверу">
+<!ENTITY alwaysAuthenticate.accesskey "В">
+<!ENTITY newsrcFilePath.label "файл newsrc:">
+<!ENTITY newsrcPicker.label "Выбрать файл newsrc">
+<!ENTITY abbreviate.label "Показывать имена групп новостей:">
+<!ENTITY abbreviateOn.label "Полностью (например «netscape.public.mozilla.mail-news»)">
+<!ENTITY abbreviateOff.label "Аббревиатурой (например «n.p.m.mail-news»)">
+<!ENTITY advancedButton.label "Дополнительно…">
+<!ENTITY serverDefaultCharset.label "Кодировка по умолчанию:">
+<!ENTITY advancedButton.accesskey "Д">
+<!ENTITY localPath.label "Локальный каталог:">
+<!ENTITY localFolderPicker.label "Выбор локального каталога">
+<!ENTITY browseFolder.label "Обзор…">
+<!ENTITY browseFolder.accesskey "б">
+<!ENTITY browseNewsrc.label "Обзор…">
+<!ENTITY browseNewsrc.accesskey "О">
+<!ENTITY accountTitle.label "Параметры учётной записи">
+<!ENTITY accountSettingsDesc.label "Эта учётная запись особенная. С ней не связаны никакие персональные данные.">

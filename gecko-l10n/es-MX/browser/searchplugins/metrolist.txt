@@ -1,0 +1,5 @@
+googlemetrofx
+yahoo-mxmetrofx
+bingmetrofx
+wikipedia-es
+mercadolibre-mx

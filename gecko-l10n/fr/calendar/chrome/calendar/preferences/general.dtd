@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+   -->
+
+<!ENTITY pref.mainbox.label "Paramètres généraux" >
+<!ENTITY pref.dateformat.label "Format de la date :" >
+<!ENTITY pref.dateformat.accesskey "F">
+<!ENTITY pref.dateformat.long "Long " >
+<!ENTITY pref.dateformat.short "Court "  >
+<!ENTITY pref.defaultlength.label "Durée par défaut des évènements :" >
+<!ENTITY pref.defaultlength.accesskey "D">
+<!ENTITY pref.defaultsnoozelength.label "Durée par défaut du report d'alarme :" >
+<!ENTITY pref.defaultsnoozelength.accesskey "u">
+
+<!ENTITY pref.accessibility.label "Accessibilité" >
+<!ENTITY pref.systemcolors.label "Optimiser les couleurs pour l'accessibilité" >
+<!ENTITY pref.systemcolors.accesskey "O">

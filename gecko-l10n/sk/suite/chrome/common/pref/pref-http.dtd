@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pref.http.title                     "Spojenie HTTP">
+
+<!-- Network-->
+<!ENTITY prefDirect.label                    "Nastavenia pre priame spojenie">
+<!ENTITY prefProxy.label                     "Nastavenia pre spojenie cez server proxy">
+<!ENTITY prefEnableHTTP10.label              "Použiť HTTP 1.0">
+<!ENTITY prefEnableHTTP10.accesskey          "o">
+<!ENTITY prefEnableHTTP10Proxy.accesskey     "u">
+<!ENTITY prefEnableHTTP11.label              "Použiť HTTP 1.1">
+<!ENTITY prefEnableHTTP11.accesskey          "H">
+<!ENTITY prefEnableHTTP11Proxy.accesskey     "T">
+<!ENTITY prefEnablePipelining.label          "Povoliť Pipelining">
+<!ENTITY prefEnablePipelining.accesskey      "v">
+<!ENTITY prefEnablePipeliningProxy.accesskey "e">
+<!ENTITY prefPara                            "Nastavenia spojení HTTP môžu byť zmenené pomocou týchto volieb a tým môže byť zvýšená rýchlosť alebo kompatibilita. Napríklad niektoré servery proxy vyžadujú HTTP/1.0 (ďalšie informácie nájdete v poznámkach k vydaniu).">
+<!ENTITY prefPipeWarning                     "UPOZORNENIE: pipelining je experimentálna funkcia navrhnutá na zlepšenie výkonu pri načítavaní stránok, nanešťastie nie je podporovaná niektorými webovými servermi a servermi proxy.">
+<!ENTITY prefUseragent.label                 "Reťazec User Agent">
+<!ENTITY prefFirefoxCompat.label             "Indikovať kompatibilitu s prehliadačom Firefox">
+<!ENTITY prefFirefoxCompat.accesskey         "F">

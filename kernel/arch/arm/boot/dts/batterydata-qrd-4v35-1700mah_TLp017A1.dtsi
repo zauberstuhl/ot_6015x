@@ -1,0 +1,110 @@
+/* Copyright (c) 2013, The Linux Foundation. All rights reserved.
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License version 2 and
+ * only version 2 as published by the Free Software Foundation.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ */
+
+qcom,qrd-4v35-1700mAh-data-TLp017A1 {
+	qcom,fcc-mah = <1700>;
+	qcom,default-rbatt-mohm = <193>;
+	qcom,rbatt-capacitive-mohm = <50>;
+	qcom,flat-ocv-threshold-uv = <3800000>;
+	qcom,max-voltage-uv = <4350000>;
+	qcom,v-cutoff-uv = <3400000>;
+	qcom,chg-term-ua = <100000>;
+	qcom,batt-id-kohm = <21>;
+
+	qcom,rbatt-sf-lut {
+		qcom,lut-col-legend = <(-10) 0 25 50>;
+		qcom,lut-row-legend = <100 95 90 85 80>,
+				<75 70 65 60 55>,
+				<50 45 40 35 30>,
+				<25 20 16 13 11>,
+				<10 9 8 7 6>,
+				<5 4 3 2 1 0>;
+		qcom,lut-data = <173 134 100 91>,
+				<178 151 103 96>,
+				<196 204 105 95>,
+				<281 222 110 97>,
+				<349 230 114 98>,
+				<371 235 118 103>,
+				<372 238 123 106>,
+				<373 229 130 111>,
+				<375 218 130 119>,
+				<377 216 110 104>,
+				<380 218 106 98>,
+				<388 220 106 98>,
+				<392 223 109 101>,
+				<396 225 111 105>,
+				<397 228 114 108>,
+				<397 227 111 103>,
+				<397 223 105 101>,
+				<404 220 107 101>,
+				<416 223 105 99>,
+				<428 229 105 99>,
+				<435 234 105 102>,
+				<442 239 106 103>,
+				<449 248 109 104>,
+				<455 258 113 106>,
+				<458 267 118 108>,
+				<461 276 122 110>,
+				<465 278 124 110>,
+				<471 282 124 111>,
+				<472 306 128 115>,
+				<472 318 135 119>,
+				<518 363 158 124>;
+	};
+
+	qcom,fcc-temp-lut {
+		qcom,lut-col-legend = <(-10) 0 25 50>;
+		qcom,lut-data = <1254 1602 1715 1728>;
+	};
+
+	qcom,pc-temp-ocv-lut {
+		qcom,lut-col-legend = <(-10) 0 25 50>;
+		qcom,lut-row-legend = <100 95 90 85 80>,
+				<75 70 65 60 55>,
+				<50 45 40 35 30>,
+				<25 20 16 13 11>,
+				<10 9 8 7 6>,
+				<5 4 3 2 1>,
+				<0>;
+		qcom,lut-data = <4324 4330 4332 4337>,
+				<4272 4239 4271 4278>,
+				<4208 4162 4212 4219>,
+				<4138 4109 4157 4164>,
+				<4082 4066 4105 4109>,
+				<4028 4009 4057 4060>,
+				<3970 3969 4008 4013>,
+				<3933 3928 3969 3972>,
+				<3907 3886 3929 3934>,
+				<3883 3853 3877 3883>,
+				<3862 3830 3844 3846>,
+				<3842 3812 3820 3821>,
+				<3823 3797 3802 3802>,
+				<3806 3786 3788 3787>,
+				<3787 3775 3777 3774>,
+				<3764 3764 3766 3751>,
+				<3736 3746 3746 3732>,
+				<3718 3719 3724 3711>,
+				<3710 3706 3697 3687>,
+				<3706 3702 3690 3676>,
+				<3704 3700 3689 3675>,
+				<3700 3698 3687 3674>,
+				<3695 3696 3686 3672>,
+				<3688 3694 3685 3671>,
+				<3673 3684 3684 3669>,
+				<3657 3673 3677 3665>,
+				<3629 3637 3662 3644>,
+				<3597 3597 3625 3614>,
+				<3561 3534 3572 3564>,
+				<3523 3467 3506 3491>,
+				<3496 3400 3400 3400>;
+	};
+};

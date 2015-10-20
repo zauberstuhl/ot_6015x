@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  popups.label                "Skočni prozori">
+
+<!ENTITY  blockPopups.label           "Blokiraj skočne prozore">
+<!ENTITY  blockPopups.accesskey       "s">
+<!ENTITY  popupExceptions.label       "Iznimke...">
+<!ENTITY  popupExceptions.accesskey   "e">
+
+<!ENTITY  fontsAndColors.label        "Fontovi &amp; Boje">
+
+<!ENTITY  defaultFont.label           "Zadani font:">
+<!ENTITY  defaultFont.accesskey       "f">
+<!ENTITY  defaultSize.label           "Veličina:">
+<!ENTITY  defaultSize.accesskey       "V">
+
+<!ENTITY  advancedFonts.label         "Napredno...">
+<!ENTITY  advancedFonts.accesskey     "a">
+
+<!ENTITY  colors.label                "Boje...">
+<!ENTITY  colors.accesskey            "B">
+
+
+<!ENTITY languages.label              "Jezici">
+<!ENTITY chooseLanguage.label         "Odaberite jezik za prikazivanje stranica">
+<!ENTITY chooseButton.label           "Odabir…">
+<!ENTITY chooseButton.accesskey       "d">

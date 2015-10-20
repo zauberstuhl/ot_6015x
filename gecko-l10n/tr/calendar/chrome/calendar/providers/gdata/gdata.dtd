@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY gdata-provider.label "Google Takvim">
+
+<!ENTITY gdata.privacy.default.label "Google öntanımlı">
+<!ENTITY gdata.privacy.default.accesskey "G">
+
+<!ENTITY gdata.migration.title "Salt okunur takvimleri taşı">
+<!ENTITY gdata.migration.description "Google Takvim sağlayıcısı, Google Takvim'e yalnızca salt okunur olarak erişebilen takvimlerinizin bulunduğunu saptadı. Bu takvimleri yükseltmek isterseniz lütfen takvimleri seçin">
+<!ENTITY gdata.migration.upgrade.label "Yükselt">
+<!ENTITY gdata.migration.upgrade.accesskey "Y">
+<!ENTITY gdata.migration.showagain.label "Her zaman denetle">
+
+<!ENTITY gdata.reminder.action.sms.label "Metin ileti olarak gönder">

@@ -1,0 +1,82 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutSupport.pageTitle "Πληροφορίες αντιμετώπισης προβλημάτων">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "
+  Αυτή η σελίδα περιέχει τεχνικές πληροφορίες που πιθανόν να σας φανούν χρήσιμες στην επίλυση κάποιων  
+  προβλημάτων. Αν ψάχνετε για απαντήσεις σε συχνές ερωτήσεις για τον 
+  &brandShortName;, επισκεφτείτε την <a id='supportLink'>σελίδα υποστήριξης</a>.
+">
+
+<!ENTITY aboutSupport.extensionsTitle "Επεκτάσεις">
+<!ENTITY aboutSupport.extensionName "Όνομα">
+<!ENTITY aboutSupport.extensionEnabled "Ενεργές">
+<!ENTITY aboutSupport.extensionVersion "Έκδοση">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Ενεργές πρόσθετες λειτουργίες">
+
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "Βασικά εφαρμογής">
+<!ENTITY aboutSupport.appBasicsName "Όνομα">
+<!ENTITY aboutSupport.appBasicsVersion "Έκδοση">
+<!ENTITY aboutSupport.appBasicsProfileDir "Κατάλογος προφίλ">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
+<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Χρήση μνήμης">
+
+
+<!ENTITY aboutSupport.modifiedPrefsName "Όνομα">
+<!ENTITY aboutSupport.modifiedPrefsValue "Τιμή">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Ιστορικό εγκατάστασης">
+<!ENTITY aboutSupport.updateHistoryTitle "Ιστορικό ενημερώσεων">
+
+
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Φάκελος προφίλ">
+
+<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Εκδόσεις βιβλιοθήκης">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Προβολή στον Finder">
+
+<!ENTITY aboutSupport.graphicsTitle "Γραφικά">
+
+<!ENTITY aboutSupport.appBasicsCrashIDs "Αναφορές καταρρεύσεων">
+
+
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Σημαντικές τροποποιημένες προτιμήσεις">
+
+<!ENTITY aboutSupport.showDir.label "Άνοιγμα καταλόγου">
+<!ENTITY aboutSupport.showWin.label "Προβολή φακέλου">
+
+<!ENTITY aboutSupport.a11yTitle "Προσιτότητα">
+
+<!ENTITY aboutSupport.a11yActivated "Ενεργοποιήθηκε">
+
+<!ENTITY aboutSupport.a11yForceDisabled "Να μην επιτρέπεται η προσιτότητα">
+
+<!ENTITY aboutSupport.copyTextToClipboard.label "Αντιγραφή κειμένου στο πρόχειρο">
+
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Αντιγραφή δεδομένων raw στο πρόχειρο">
+
+<!ENTITY aboutSupport.userJSTitle "Προτιμήσεις user.js">
+<!ENTITY aboutSupport.userJSDescription "Ο φάκελος του προφίλ σας περιέχει το <a id='prefs-user-js-link'>αρχείο user.js</a>, που περιέχει προτιμήσεις που δεν δημιουργήθηκαν από τον &brandShortName;.">
+
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory): "Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateHistory "Ιστορικό ενημερώσεων">
+
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Προβολή ιστορικού ενημερώσεων">
+

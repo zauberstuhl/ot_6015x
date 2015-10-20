@@ -1,0 +1,45 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY threadColumn.label "Conversa">
+<!ENTITY fromColumn.label "Remitent">
+<!ENTITY recipientColumn.label "Destinatari">
+<!ENTITY attachmentColumn.label "Adjunts">
+<!ENTITY subjectColumn.label "Assumpte">
+<!ENTITY dateColumn.label "Data">
+<!ENTITY priorityColumn.label "Prioritat">
+<!ENTITY tagsColumn.label "Etiquetes">
+<!ENTITY accountColumn.label "Compte">
+<!ENTITY statusColumn.label "Estat">
+<!ENTITY sizeColumn.label "Mida">
+<!ENTITY junkStatusColumn.label "Estat de correu brossa">
+<!ENTITY unreadColumn.label "Per llegir en la conversa">
+<!ENTITY totalColumn.label "Total en la conversa">
+<!ENTITY readColumn.label "Llegit">
+<!ENTITY receivedColumn.label "Recepció">
+<!ENTITY flagColumn.label "Destacat">
+<!ENTITY locationColumn.label "Ubicació">
+<!ENTITY idColumn.label "Ordre de recepció">
+<!--Tooltips-->
+
+<!ENTITY columnChooser.tooltip "Feu un clic per seleccionar les columnes a visualitzar">
+<!ENTITY threadColumn.tooltip "Feu un clic per veure els missatges agrupats per converses"> 
+<!ENTITY fromColumn.tooltip "Feu un clic per ordenar per remitent">
+<!ENTITY recipientColumn.tooltip "Feu un clic per ordenar per destinatari">
+<!ENTITY attachmentColumn.tooltip "Feu un clic per ordenar per adjunts">
+<!ENTITY subjectColumn.tooltip "Feu un clic per ordenar per assumpte">
+<!ENTITY dateColumn.tooltip "Feu un clic per ordenar per data">
+<!ENTITY priorityColumn.tooltip "Feu un clic per ordenar per prioritat">
+<!ENTITY tagsColumn.tooltip "Feu un clic per ordenar per etiquetes">
+<!ENTITY accountColumn.tooltip "Fes un clic per ordenar per compte">
+<!ENTITY statusColumn.tooltip "Feu un clic per ordenar per estat">
+<!ENTITY sizeColumn.tooltip "Feu un clic per ordenar per mida">
+<!ENTITY junkStatusColumn.tooltip "Feu un clic per ordenar per estat de correu brossa">
+<!ENTITY unreadColumn.tooltip "Nombre de missatges per llegir en la conversa">
+<!ENTITY totalColumn.tooltip "Nombre total de missatges en la conversa">
+<!ENTITY readColumn.tooltip "Feu un clic per ordenar per llegit">
+<!ENTITY receivedColumn.tooltip "Feu un clic per ordenar per ordre de recepció">
+<!ENTITY flagColumn.tooltip "Feu un clic per ordenar per destacat">
+<!ENTITY locationColumn.tooltip "Feu un clic per ordenar per ubicació">
+<!ENTITY idColumn.tooltip "Feu clic per ordenar per ordre de recepció">
