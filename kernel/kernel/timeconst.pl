@@ -369,10 +369,13 @@ if ($hz eq '--can') {
 		die "Usage: $0 HZ\n";
 	}
 
-	@val = @{$canned_values{$hz}};
-	if (!defined(@val)) {
-		@val = compute_values($hz);
-	}
+# https://github.com/nx507j-dev/android_kernel_nubia_nx507j/pull/1/files
+#	@val = @{$canned_values{$hz}};
+#	if (!defined(@val)) {
+#		@val = compute_values($hz);
+#	}
+	$cv = $canned_values{$hz};
+	@val = defined($cv) ? @$cv : compute_values($hz);
 	output($hz, @val);
 }
 exit 0;
